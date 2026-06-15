@@ -1,0 +1,48 @@
+### Recorded Ideas
+- Youtube addiction
+- i quit most of the things even b4 starting because somewhere in my mind i have made up this thought that im going to fail 
+- Do you have gods in your life. People who are gods. I will tell you exactly who im talking about. I'm not talking about god who cures everything, watches on everyone, blesses everyone, no. I'm talking about God who just watches what you are going through. 
+- Ads which has your image in it
+- How hope drives all of us
+- Dont be humble, everyone on internet is advising against being a good boy
+- Who is a man? why does he always have to be mean ?
+
+
+### Unrecorded Ideas
+- Flight mai ek aadmi mota with cargo pants
+- solo trip
+- snoring
+- why do people like to scam ?
+- loneliness in mumbai 
+- AI improved so much
+- There is always work going on in my building
+- Why do I never feel productive?
+- Penny wise Pound foolish
+- Acting chill but dying inside
+- I feel clostrophobic in Mumbai
+- Smiling at strangers is always going to give that u r selling something vibes
+- Grass is always greener on the other side
+- Eye contact 
+- Sardars who cut their hair and then later on their hair line starts receding 
+- The falling behind in life
+- A real good hobby loses money
+- Accepting mistake is a mistake sometimes
+- chinese whispers travels faster than sound
+- I'm not the guy who wishes ill on someone. But i have my own way of taking revenge hahahhha im evil that way. The opposite of love is not hate it is indifference
+- life is not moving it has been stagnant why is stagnant life so depressing?
+    Everyone around u is moving ahead but u r there u r neither going behind in life nor ahead. All those saying that the spring has to go down before it jumps up or the bow has to be stretched back so that the arrow can shoot in front and the more the stretch behind the more momentum it will gain to go in front all of that but what if there is no going behind what if in your life you are just at one place stagnant
+- I think we should be allowed to decide our age. Jo age mujhe sahi lagta hai woh mujhe bolne dena chahiye 
+- the moment i start something i want to know what would be next and my current action will depend upon what is next and that uncertainity of what could be next just kills the present moment
+- Nothing is black or white
+- Some names are rich and some just sound poor
+- People who leave with out saying bye 
+- being at the right place at the right time if you do something old - you are old school. If you do something that is too good for today then u r ahead of its time. You have to be at the right place at the right time to be succesfull
+- Grey, everything in this world is grey nothing is blac or white 
+- what if AI has anxiety and depression issues
+- Im still worried about what my school friends would think about me. They dont even think about me 
+- my pride will take me down sometime 
+- validation
+- serendipity
+- Karm karo fal ki chinta mat karo 
+- an eye for an eye will make the whole world go blind 
+- the more you fuck around the more you find out

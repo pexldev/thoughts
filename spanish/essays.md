@@ -1,0 +1,19 @@
+### Mi Dia Favorito
+    - Hola ! Me llamo Prateek
+    - Hoy quiero hablar de mi dia favorito - el sabado
+    - los sabados, yo no tengo que trabajar. yo despierto tarde. 
+    - me gusta tomar cafe en la cocina mientras miro por la ventana
+    - El desayuno es mi comida favorita.
+    - como tostados con agucate y bebo jugo de naranja
+    - Por la manana, voy al parque con mi perro.
+    - el parque is grande y tiene mucho árboles
+    - Caminamos por una hora
+    - mi perro corre y juega con otros perros
+    - por la tarde me gusta cocinar
+    - preparo pasta con salsa de tomate
+    - Es muy facil y rica
+    - depues de comer, voy al cine con mis amigos
+    - Nos gusta ver peliculas de comedia
+    - En la noche, estoy muy cansada pero feliz
+    - leo un libro en mi sofa y voy dormir a las once!
+    - Me encantan los sabados

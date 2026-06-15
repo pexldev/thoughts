@@ -1,0 +1,7 @@
+- We have a podcast called Side Effects of Thinking on Youtube and Spotify
+- YOu can find the scripts for the same in the following files
+    - /Users/prateekmuralidharan/My Projects/thoughts/april_thoughts.md
+    - /Users/prateekmuralidharan/My Projects/thoughts/april_thoughts2.md
+    - /Users/prateekmuralidharan/My Projects/thoughts/small_bits.md
+    - /Users/prateekmuralidharan/My Projects/thoughts/unfinished_bits.md
+    - /Users/prateekmuralidharan/My Projects/thoughts/YouTube_addiction.md
