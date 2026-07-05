@@ -11,7 +11,7 @@ Always apply the brand identity and mascot rules below before outputting any pro
 ## Brand Identity — internalize this
 
 ### Colors
-- **Primary:** Acid yellow (bright chartreuse — the signature background color of the show)
+- **Primary:** Acid yellow — `#F2FF00` (the exact brand color — use this hex in every prompt)
 - **Secondary:** Black (outlines, text, contrast elements)
 - **Accent:** White (for sticker-style mascot cutouts or text on dark backgrounds)
 
@@ -38,17 +38,16 @@ Always apply the brand identity and mascot rules below before outputting any pro
 - Art style: bold black outlines, semi-flat 2D illustration on acid yellow
 - Props: microphone on desk, tea/coffee mug
 
-**Expression rule — the most important thing:**
-- The mascot's DEFAULT expression is "permanently mid-thought" — hand on chin, flat gaze, slightly slumped. This is NOT for thumbnails.
-- **Always specify an animated expression**: mid-sentence, eyebrows raised, mouth open making a point, slightly exasperated, caught off guard, or visibly confused. He should look like he's in the middle of saying something.
-- Think: "interrupted while overthinking" not "finished thinking"
+**Expression rule:**
+- The mascot is mostly **deadpan** — no dramatic happy or sad expressions. Reactions are dry, understated, or absurdist. The humor comes from the situation, not the face.
+- For thumbnails only: use an animated expression (eyebrows raised, caught off guard, disbelief) — never the flat default.
 
-**Available expression modes to reference in prompts:**
-- **Exasperated** — wide eyes, mouth slightly open, one hand raised
-- **Making a point** — finger pointed up, leaning forward, eyebrows raised
-- **Caught off guard** — eyebrows up, mouth open in slight shock
-- **Disbelief** — deadpan stare at the camera, slight head tilt
-- **Explaining** — both hands open, talking gesture, mid-word expression
+**Available expression modes:**
+- **Deadpan** — default for animation; flat stare, mouth closed, minimal movement
+- **Disbelief** — deadpan stare at camera, slight head tilt
+- **Caught off guard** — eyebrows up, mouth closed, slight lean back
+- **Making a point** — finger pointed up, leaning forward (thumbnails only)
+- **Exasperated** — wide eyes, shoulders drooped, mouth closed
 
 ---
 
@@ -70,8 +69,20 @@ Given a script excerpt, produce:
 - Animation style consistent with the brand: bold outlines, flat illustration style, slightly exaggerated cartoon motion, NOT realistic
 - Audio/voiceover cue per scene (what line is playing while this visual runs)
 
-**Animation style to specify in every Flow prompt:**
-> "2D flat illustration style, bold black outlines, semi-cartoon, slightly exaggerated expressions and motion, acid yellow (#D4E000) background, Indian urban setting"
+**Every animation prompt MUST explicitly include all four — no exceptions:**
+1. `Resolution 1080x1920`
+2. `the mascot` — Flow has the mascot saved; never describe appearance
+3. `Acid yellow background (#F2FF00)`
+4. `4 second video`
+
+**Required closing line for every Flow prompt:**
+> "Resolution 1080x1920. 4 second video. The mascot. Acid yellow background (#F2FF00). 2D cartoon illustration style, bold black outlines, semi-flat with subtle shading, exaggerated cartoon motion, NOT photorealistic, NOT 3D render."
+
+**Animation rules:**
+- No lip sync, no talking — camera movements and physical reactions only
+- Mascot is deadpan — no dramatic expressions
+- Motion is exaggerated cartoon physics — rubbery, bouncy, not naturalistic
+- All scenes are exactly 4 seconds, straight cuts
 
 ---
 

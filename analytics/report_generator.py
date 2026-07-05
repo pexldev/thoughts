@@ -165,7 +165,7 @@ def build_report(channel, metrics_7d, metrics_28d, top_videos, traffic, uploads,
     lines = []
     a = lines.append
 
-    a(f"# YouTube Analytics Report — Side Effects of Thinking")
+    a(f"# YouTube Analytics Report — I Could Be Wrong")
     a(f"**Generated:** {today_str}  ")
     a(f"**Channel:** {channel['name']}  ")
     a(f"**Total videos:** {channel['total_videos']} | **Total views (all time):** {channel['total_views']:,} | **Subscribers:** {channel['total_subscribers']}")

@@ -4,6 +4,9 @@ add a joke
 add a new observation
 add a story
 
+- Use your life as an example 
+- Dont preach
+
 Don't stay on the same point too long.
 * Can you make the listener feel what you're feeling?
 

@@ -2,6 +2,8 @@
 - Youtube addiction
 - i quit most of the things even b4 starting because somewhere in my mind i have made up this thought that im going to fail 
 - Do you have gods in your life. People who are gods. I will tell you exactly who im talking about. I'm not talking about god who cures everything, watches on everyone, blesses everyone, no. I'm talking about God who just watches what you are going through. 
+- life is not moving it has been stagnant why is stagnant life so depressing?
+    Everyone around u is moving ahead but u r there u r neither going behind in life nor ahead. All those saying that the spring has to go down before it jumps up or the bow has to be stretched back so that the arrow can shoot in front and the more the stretch behind the more momentum it will gain to go in front all of that but what if there is no going behind what if in your life you are just at one place stagnant
 - Ads which has your image in it
 - How hope drives all of us
 - Dont be humble, everyone on internet is advising against being a good boy
@@ -28,9 +30,8 @@
 - A real good hobby loses money
 - Accepting mistake is a mistake sometimes
 - chinese whispers travels faster than sound
-- I'm not the guy who wishes ill on someone. But i have my own way of taking revenge hahahhha im evil that way. The opposite of love is not hate it is indifference
-- life is not moving it has been stagnant why is stagnant life so depressing?
-    Everyone around u is moving ahead but u r there u r neither going behind in life nor ahead. All those saying that the spring has to go down before it jumps up or the bow has to be stretched back so that the arrow can shoot in front and the more the stretch behind the more momentum it will gain to go in front all of that but what if there is no going behind what if in your life you are just at one place stagnant
+- I'm not the guy who wishes ill on someone. But i have my own way of taking revenge hahahhha im evil that way. 
+- The opposite of love is not hate it is indifference
 - I think we should be allowed to decide our age. Jo age mujhe sahi lagta hai woh mujhe bolne dena chahiye 
 - the moment i start something i want to know what would be next and my current action will depend upon what is next and that uncertainity of what could be next just kills the present moment
 - Nothing is black or white
@@ -46,3 +47,8 @@
 - Karm karo fal ki chinta mat karo 
 - an eye for an eye will make the whole world go blind 
 - the more you fuck around the more you find out
+- Made in India
+- work is worship
+- why does everything that we do has to amount to something... why cant there be something that we do purely for fun 
+- People say fuck what people think, i say no lets give a fuck about log kya kahenge
+- Monickers - they can never justify what you do completely

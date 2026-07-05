@@ -1,11 +1,20 @@
-I met my cousin over coffee.
 
-One of those cousins where if it wasnt for genetics 
-- I would described her as a red flag
-- If we ever met at a party, I'd avoid eye contact.
-- If she were my neighbour, I'd move to a different city.
 
-You know the type.
+Last Saturday, I met my cousin over a cup of coffee.
+
+pause
+
+One of those cousins where... if it wasn't for genetics...
+
+beat
+
+I would have called her a red flag.
+
+Like if we'd met at a party? I'd have avoided eye contact.
+
+If she were my neighbour... I would have left town 
+
+You know im trying to paint a picture.
 
 Every family has one.
 
@@ -21,17 +30,37 @@ Career.
 Life.
 
 How her father is cheating on her mom 
+
 beat 
 
 
-You know when someone becomes vulenrable infront of you, all of a sudden you think may be 'I was wrong about this person & may be i should support her in this difficult times'
+You know when someone becomes vulnerable in front of you and suddenly you think — maybe I was wrong about this person.
 
-But here is a suggestion if you mind ever goes in this direction here is a piece of advice again just remember this golden rule
+May be she is a good person at heart and just misunderstood by people and i should be with her in this difficult times
 
-"Once a snake always a SNAKE'
+beat
 
+I normally dont give advices but if ever such a thing happens to you just remember this golden rule
 
-The next day my mother comes to me and says—
+beat
+
+Once a snake...
+
+beat
+
+...always a snake.
+
+Anyway.
+
+Long conversation. I go home.
+
+beat
+
+Next morning.
+
+Sunday.
+
+My mom comes to me and says—
 
 "Why don't you make eye contact while talking to people"
 
@@ -41,7 +70,7 @@ I said...
 
 "Why don't you make eye contact while talking to people"
 
-You remember I said 
+You remember I told you 
 
 "If i ever meet this person in a party i would avoid eye contact"
 
@@ -54,29 +83,28 @@ I listened to family secrets.
 
 She analysed my eye movement.
 
-
-You are thirty years old.
+and here is a thing
+You are thirty years old adult.
 
 If you have feedback for me...
 
 give it to me on my face.
 
-Dont go cry to mumma about this 
+Dont go crying to mumma about this 
 
-But once that seed was planted...
+Anyways coming back to the eye_contact thing
 
-my brain got to work.
+"Now a normal person would have ignored this feedback from my cousin"
+beat
+"I am not a normal person."
 
 
 I believed my mom.
 
-I thought maybe she's right.
+My brain automatically went maybe she's right.
 
 Maybe I'm missing social cues.
 
-last week I spent 45 minutes talking to a wall.
-
-It was this exact podcast.
 
 
 And I've been working from home for years.
@@ -94,7 +122,7 @@ Because if you mess up one letter in the name...
 
 Congratulations.
 
-YOu are now donating your money to the airlines
+YOu are now donating your entire salary's worth to the airlines
 
 So I'm sitting there on my laptop.
 
@@ -134,24 +162,14 @@ Am I audible.
 
 Through a wooden door.
 
-To a woman standing eight feet away from me.
 
 when somebody doesn't respond...
 
 my brain intutively goes she is speaking on mute
 
-And this is exactly what my brain does it straight up goes 
+for that eye contact feedback
 
-"See?"
-
-"You ask people if they're audible through bathroom doors."
-
-YOu are such a loser
-
-My brain never does the opposite.
-
-Not even for a second did it go—
-
+Not even for a second i thought that 
 "Hold on."
 
 "This feedback is coming from a 30-year-old woman who couldn't make eye contact with you while whining about it to your mom"
@@ -175,13 +193,32 @@ Eventually I had to translate.
 
 "Sir, she'd like a frappe."
 
-But my brain ignored all of that.
+She had the same energy as people who make you call customer care for them.
+
+You know these people.
+
+Their internet stops working.
+
+Their bank account gets hacked.
+
+Their house catches fire.
+
+And they're still come to you and go:
+
+"Can you talk to my bank and help me block my card?"
+
+Why?
+
+"I get nervous."
+
+Nervous about what?
+
+There is another human over there just like you talk to them and explain this situation
+It's jio, its not the Supreme Court.
 
 
+And such people have most opinions to give... infact everyone has opinions to give 
 
-And here is another thing that i have problem with
-
-EVERYONE IN THIS WORLD HAS AN FEEDBACK TO GIVE. HAS AN OPINION ON EVERYTHING.
 
 no one goes like ok this is not my area of expertiese i should shut up about this 
 
@@ -189,39 +226,24 @@ You open internet
 
 There is a 25-year-old guy going—
 
-"10 mistakes I did in my 20s so that you dont do it "
+"20 mistakes I did in my 20s so that you dont do it "
 
 My friend...
-
+There is a reason why everyone calls you beta in your family its because
 you're still a beta version.
 
-Your family still calls you "beta" for a reason
 
 so Relax.
 
-you are 25 years old go f around and find out 
+you are 25 years old go f around and find out and then think about starting a podcast called figuring out 
 
 
-everyone wants to give feedback 
-
-My dad's friend gives me financial advice about insurance
-well because he wants to complete his quota for that quarter
-
-My uncle gives Marriage advice 
-He always complains how his son married down. 
-He could have got one of the greatest girl but he married someone average 
-
-My uncle and aunty get along so well with each other that they dont even live in the same house anymore 
-
-But they have opinion to give 
-
-And everyone has 
 
 Okay.
 
 I went somewhere.
 
-I don't know how I got from my cousin's eye contact to my uncle's divorce.
+I don't know how I got from my  eye contact to a 25 year old on the internet.
 
 beat
 
@@ -243,7 +265,7 @@ We're not doing that.
 
 We came here for eye contact.
 
-Let's address the eye contact issue.
+Let's address the eye contact issue. 
 
 
 Well...
@@ -268,7 +290,7 @@ The family secret I didn't ask for.
 
 My mom.
 
-The eye contact feedback delivered via proxy.
+The eye contact feedback 
 
 The bathroom door.
 
@@ -281,7 +303,7 @@ pause
 I told her all of that.
 
 
-She goes "What can I help you with"
+She goes "Great family gossip, but What can I help you with"
 
 I go ok people say by people i mean my mom and that cousin they say im socially awkward
 
@@ -317,47 +339,41 @@ I walked out thinking...
 
 beat
 
-
-this lady said all this to me while looking in my eyes
+this lady said all this to me while starring in my eyes not looking starring
 
 This woman has been professionally trained to make eye contact with crazy people.
 What does she know anyways
 
 Anyways 
 
-So I did what any rational person does when experts fail them.
+So I did what any rational person does 
 
-I went to YouTube.
+when experts fail we turn to....
 
-Three hours.
+YouTube.
 
-The therapist thinks I'm normal.
+Turns out — on YouTube I did exactly what I do over here.
 
-My cousin thinks I'm awkward.
+I started with the eye contact something called triangle method. llok it up
 
-My mother agrees with my cousin.
+beat
 
-A 25-year-old on YouTube thinks I'm one eye-contact tutorial away from becoming Batman.
+Then somehow ended up on—
 
-At this point I don't know who's right.
+"How to make women fall in love using only your eyes."
 
-And that's becoming a recurring theme in my life.
+beat
 
-The older I get, the more I realise...
+Then ended up on—
 
-everybody seems very confident...
+"If you don't make eye contact... you might be a reptilian alien."
 
-and nobody seems to agree.
+long pause
 
-So maybe...
+So either I'm broken.
+
+Or I'm not from here.
+
+beat
 
 I could be wrong.
-
-
-
-
-
-
-
-
-

@@ -8,3 +8,4 @@
 * "Help me find my voice."
 
 * "Help the right people find my work."
+* Help me become an engaging andd funny performer
