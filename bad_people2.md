@@ -127,7 +127,7 @@ They go,
 "Hikes depend on performance."
 
 "As per your offer letter —
-the variable component is subject to
+the hike is subject to
 performance review outcomes
 determined by management
 at their sole discretion."
@@ -150,15 +150,12 @@ every single one of them...
 
 They all knew 
 
-The hike was already decided.
+There was never going to be twenty percent.
 
-The budget was already decided.
+10% was already decided.
 
 The scam worked
 
-There was never going to be another twenty percent.
-
-Never.
 
 Now.
 
@@ -179,10 +176,14 @@ I have time.
 
 I'm going to go home and think about
 what to record on the podcast.
-which gets only 1 view which is my own view 
+which gets 1 view 
+my own view 
 
-OR 
-at work someone in stand up  goes like  —
+That's a free lie. Nobody gets hurt.
+
+This next one, someone gets hurt.
+ 
+at work someone in stand up meeting  goes like  —
 
 "Prateek, we have been asking your help on this for past one week with this, could you please look into this?"
 
@@ -200,18 +201,21 @@ so you would understand —
 
 don't send me things like this.
 
+So that's me.
+I lie to save time.
+I lie to dodge work.
 
+Small lies.
+Free lies.
+Nobody loses money.
 
-hahhahha
+You'd think a guy who lies this much
+would be impossible to scam.
 
-i have done things like this 
+pause
 
+Let me tell you about my gym trainer.
 
-but
-You know things like 
-
-that gym trainer who walks up to you 
-for PT?
 
 He comes to me and goes,
 
@@ -244,49 +248,53 @@ Same scam.
 
 Different industry.
 
-I dont understand this 
 
-How can such people live with themselves at peace
+How do such people live with themselves?
 
-Does that manager go home...
+Very well, actually.
 
-look in the mirror...
+The manager slept fine that night.
+HR slept fine.
+My gym trainer slept fine —
+on a mattress stuffed with my ten thousand rupees.
 
-and think...
+You know who didn't sleep?
 
-"Yeah.
+My friend.
 
-I did the right thing today."
+The only guy in this entire story
+who did nothing wrong.
 
-I think he does.
+Up at 2 AM.
+Reading his offer letter again.
+Googling "sole discretion meaning in Hindi."
 
-I think he genuinely believes...
+pause
 
-he was protecting the company's budget.
+So that's the system, yaar.
 
-I think he genuinely believes...
+Bad people sleep.
+Good people read fine print at 2 AM.
 
-my friend should've read the offer letter more carefully.
+And me?
 
-That's what scares me.
+beat
 
-Not the lie.
+I sleep great.
 
-The story people tell themselves...
+Make of that what you will.
 
-so they can sleep peacefully afterwards.
+please let me know
+because I could be wrong about all of this
 
-
-
-please let me know 
-
-Because i could be wrong about all of this 
-
-My name is prateek 
-this is i could be wrong 
-I will see you in the next one
+My name is Prateek.
+This is I Could Be Wrong.
+See you in the next one.
 
 BYE
+
+please let me know in the comments
+
 
 
 

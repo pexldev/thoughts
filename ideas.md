@@ -8,13 +8,12 @@
 - How hope drives all of us
 - Dont be humble, everyone on internet is advising against being a good boy
 - Who is a man? why does he always have to be mean ?
-
+- why do people like to scam ?
+- Flight mai ek aadmi mota with cargo pants
 
 ### Unrecorded Ideas
-- Flight mai ek aadmi mota with cargo pants
 - solo trip
 - snoring
-- why do people like to scam ?
 - loneliness in mumbai 
 - AI improved so much
 - There is always work going on in my building
@@ -52,3 +51,10 @@
 - why does everything that we do has to amount to something... why cant there be something that we do purely for fun 
 - People say fuck what people think, i say no lets give a fuck about log kya kahenge
 - Monickers - they can never justify what you do completely
+- the predicament of ordering food when its too hot or raining
+- Bathroom slab filled with tissue paper
+- Prices of things in airport
+- Hi Prateek good morning
+- Sometimes we work as if, if we dont the company is going to close. That is almost never the case - I lost my eye to this almost i have backpain, cervical issues and vertigo because of this 
+- people prefer murder over saying no - very cliche for indian society
+- you are what you eat

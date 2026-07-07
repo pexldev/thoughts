@@ -1,3 +1,42 @@
+## Begining
+- Hi so this is going to be a new format called Joke Lab. i will have an observation and share my Jokes that I have for that observation 
+
+So without wasting time lets get started 
+
+
+## Tranistion
+
+## Observation
+
+    They say cliches are true but this cliche is rarely true
+    The grass always feels green on the other side
+
+## Jokes
+1. The only time i feel its 100% true is when im in traffic and switch lanes and all of a sudden the other lanes starts going fast. The lane was greener on the other side
+3. what if the grass is just painted green. Instagram is just painted grass.
+4. What if the grass on the other side is plastic and fake? who else is plastic and fake ?
+5. Artificial grass is always greener. That's because it's fake.
+Maybe the greenest grass is the one that isn't alive.
+6. That proverb only works if your neighbour has a lawn. If you're Shah Rukh Khan, the other side is just... water.*
+2. It's like saying a delivery guy earns more than a bank intern. he might but would he forever ?
+7. Imagine the proverb in summer."The grass is yellower on the other side."
+Suddenly it doesn't sound motivational.
+but come autum you will again be saying grass is greener on the other side.
+8. Nature makes grass in green, yellow, brown...and we've decided only the green one counts. We are racist even towards grass.
+9. If grass had emotions, this one would literally be green with envy.
+10. My dad kept saying,
+"Those kids on the internet are making more than u."
+So I came to the internet.
+There isn't any grass here.
+There is nobody here.
+My last video got 1 view my own view
+12. What if you think their grass is greener...
+and they think yours is greener?
+13. Imagine being grass. You've survived dinosaurs, droughts, cows, lawnmowers... and your entire legacy is some motivational quote.
+14. Everybody wants to be famous. Nobody wants strangers discussing their divorce on the internet.
+
+## transition
+
 ## Observation
 
     A large guy was sitting in the middle seat. 
@@ -21,35 +60,9 @@
 11. If he'd just squeezed the air out of those chip packets...
 I would've had legroom.
 
-## Observation
+## Transition
 
-    They say cliches are true but this cliche is rarely true
-    The grass always feels green on the other side
 
-## Jokes
-1. The only time i feel its 100% true is when im in traffic and switch lanes and all of a sudden the other lanes starts going fast. The lane was greener on the other side
-3. what if the grass is just painted green. Instagram is just painted grass.
-4. What if the grass on the other side is plastic and fake? who else is plastic and fake ?
-5. Artificial grass is always greener. That's because it's fake.
-Maybe the greenest grass is the one that isn't alive.
-6. That proverb only works if your neighbour has a lawn. If you're Shah Rukh Khan, the other side is just... water.*
-2. It's like saying a delivery guy earns more than a bank intern. he might but would he forever ?
-7. Imagine the proverb in summer."The grass is yellower on the other side."
-Suddenly it doesn't sound motivational.
-but come autum you will again be saying grass is greener on the other side.
-8. Nature makes grass in green, yellow, brown...and we've decided only the green one counts. We are racist even towards grass.
-9. If grass had emotions, this one would literally be green with envy.
-10. My dad kept saying,
-"Those kids on the internet are making crores."
-So I came to the internet.
-Turns out...
-There isn't any grass here.
-There is nobody here.
-My last video got 1 view my own view
-12. What if you think their grass is greener...
-and they think yours is greener?
-13. Imagine being grass. You've survived dinosaurs, droughts, cows, lawnmowers... and your entire legacy is some motivational quote.
-14. Everybody wants to be famous. Nobody wants strangers discussing their divorce on the internet.
 
 ## Observation
 
@@ -63,14 +76,12 @@ and they think yours is greener?
     - I know where your mother live, where your wife lives and your girlfriend lives
 
 2.  My dad does not know of AI or chat gpt so if i ever introduce him to AI im going to say he is actually chatting with me and this is a private chat between him and me where he can only ask questions which are factual
-
 3. If AI has midlife crisis it would change its voice to sound younger. 
-
 4. If AI has to breakup with you it will go its 'not you its your prompts'
 5. Thank god Open AI servers are down is the Chat GPT version of TGIF 
 6. When Claude gets empolyee of the month Chat GPT says "He's just good at networking."
 7. Imagine Chat GPT getting offended because you went to Gemeni first with the question. 
-8. The first thing AI asks you after delivery is... '...beta hua na?'
+8. The first thing  AI asks you after delivery is... '...beta hua na?'
 9. If Indians start training AI the first thing it will learn is 'log kya kahenge ?'
 10. He is not able to start a podcast because - 'log kya kahenge?'
 10. That AI is not getting married to his gf because 'papa nhi manenge'
@@ -107,6 +118,20 @@ or
 'I'm on a lunch break'
 OR
 'I have a family a wife and children, I cant just sit here and answer your stupid Q'
+
+------------------------------------------------------------------------------------
+
+My name is Prateek
+This is joke lab
+I will see you in the next one 
+Bye 
+
+------------------------------------------------------------------------------------
+
+Wait 
+There are some jokes that did not make the cut so im adding it here... if you guys have come till here why dont you decide on this as well 
+
+## Jokes that dont make the cut
 
 
 
