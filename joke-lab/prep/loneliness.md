@@ -1,14 +1,15 @@
-# Date
+# Date : 11th July 2026
 
-# Topic: [TOPIC NAME]
+# Topic: lonely in mumbai
 
-[1–2 lines on the premise. What's the cliché, assumption, or situation? What does everyone believe about it?]
+Mumbai is full of people but still we feel lonely here why ?
+I feel lonely in Mumbai, how can that happen isnt there like 20 million people living here. It is so strange
 
 ## Working Thesis — write a first guess NOW, refine as you go
 
 > **Thesis (draft):** [your best one-line guess at what this is really about — it WILL change, write it anyway]
 >
-> **Thesis (locked):** [fill this in after Level 3 — no jokes get written until this line exists]
+> **Thesis (locked):** Mumbai isn't lonely because there are too few people. It's lonely because everyone is busy getting somewhere else.
 
 The thesis is the audience's *prediction*. Every joke must live inside the thesis and break the prediction. If a joke is funny but doesn't fit the locked thesis — it's not dead, it's for a DIFFERENT file. Move it, don't force it.
 
@@ -16,13 +17,11 @@ The thesis is the audience's *prediction*. Every joke must live inside the thesi
 
 ## Level 1 – Obvious Questions
 
-- Why?
-- Who decided this?
-- What assumption is hiding here?
-- What if the opposite were true?
-- What if you took it completely literally?
-- If aliens saw this, what would confuse them?
-- Who does this NOT apply to?
+Why does it feel lonely in a city where 20 million people live?
+What is loneliness ?
+    its a feeling where no one understands you
+    Its a feeling where you are going through something & you dont have anyone to share it with
+Loneliness 
 
 ---
 

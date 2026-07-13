@@ -25,7 +25,7 @@ Every observation gets a prep file in `joke-lab/prep/<slug>.md`, built from `jok
 3. **Level 2.5 – Opposites:** Who doesn't believe this? When is the opposite actually true? What if everyone did it at once?
 4. **Level 3 – Thesis:** The core human truth underneath. What we overvalue/undervalue, the irony at the center, the Indian/urban/millennial angle. **The thesis feeds jokes — it never gets spoken as a thesis in the episode.** No philosophizing mid-run; that's main-episode territory.
 5. **Level 4 – Analogy:** "It's like [everyday thing] that [mirrors the thesis]." "If an alien saw this, they'd think..."
-6. **Jokes:** numbered list, harvested from all levels above. The best ladder lines often ARE the joke — just tighten to setup+punchline.
+6. **Jokes:** numbered list, harvested from all levels above. The best ladder lines often ARE the joke — just tighten to setup+punchline. Tag every joke whose punchline paints a picture with a one-line `🎬 frame:` note — the concrete image it puts in your head ("🎬 frame: a CA mid-leap catching a Form 16 under a window"). Never reject a joke for painting nothing (volume rule) — the tag is inventory for `/joke-lab-reels`, which needs one drawable image per joke.
 
 When Prateek dumps raw thoughts, sort them into the right ladder levels — don't discard fragments, they're future punchlines.
 
@@ -54,9 +54,10 @@ When assembling `joke-lab/episode_N.md` from 2–3 prep files:
 
 1. **Cold open** — two lines max, straight in: what Joke Lab is (only if needed), "without wasting time, let's get started"
 2. Per observation: `## Transition` marker → `## Observation` (stated cold, indented block, no wind-up) → `## Jokes` (numbered)
-3. **Ordering across the episode:** second-strongest observation opens, weakest in the middle, strongest closes
-4. **Outro** — the fixed sign-off: "My name is Prateek / This is Joke Lab / I will see you in the next one / Bye"
-5. **Post-credit:** `## Jokes that didn't make the cut` — park the 2–4 weakest jokes here with the audience framing ("if you've come till here, why don't you decide on this as well"). This is the retention tail — never leave it empty.
+3. **Write in the asides** — 3–4 informal break-character reactions per observation ("ohh that is such a bad one", "if my dad hears this he will kill me"), 1–2 seconds each, thrown away not performed, placed after the weird/personal/risky jokes — never after every one. A script with zero asides records flat (see `joke-lab/lab_notes.md`, Note 1).
+4. **Ordering across the episode:** second-strongest observation opens, weakest in the middle, strongest closes
+5. **Outro** — the fixed sign-off: "My name is Prateek / This is Joke Lab / I will see you in the next one / Bye"
+6. **Post-credit:** `## Jokes that didn't make the cut` — park the 2–4 weakest jokes here with the audience framing ("if you've come till here, why don't you decide on this as well"). This is the retention tail — never leave it empty.
 
 Ranking jokes happens **only at assembly** (deciding what drops to post-credits) — never while writing.
 

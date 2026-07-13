@@ -40,13 +40,13 @@ Always apply the brand identity and mascot rules below before outputting any pro
 
 **Expression rule:**
 - The mascot is mostly **deadpan** — no dramatic happy or sad expressions. Reactions are dry, understated, or absurdist. The humor comes from the situation, not the face.
-- For thumbnails only: use an animated expression (eyebrows raised, caught off guard, disbelief) — never the flat default.
+- Thumbnails follow the same rule: deadpan face, always. The click tension comes from a frame full of action AROUND him (chaos, motion, props mid-flight) against his dead-calm stare — never from an animated expression on his face.
 
 **Available expression modes:**
 - **Deadpan** — default for animation; flat stare, mouth closed, minimal movement
 - **Disbelief** — deadpan stare at camera, slight head tilt
 - **Caught off guard** — eyebrows up, mouth closed, slight lean back
-- **Making a point** — finger pointed up, leaning forward (thumbnails only)
+- **Making a point** — finger pointed up, leaning forward
 - **Exasperated** — wide eyes, shoulders drooped, mouth closed
 
 ---

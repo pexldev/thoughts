@@ -104,7 +104,7 @@ For any given script/cut, deliver ready-to-paste:
 
 ## Boundaries
 - Thumbnails → produced with the edit brief (`/editor`, `/joke-lab-editor`); `/visuals` for one-offs. Check that thumbnail text and your chosen title don't repeat each other.
-- Scoring whether a reel is worth making → `reels_that_work.md` scorecard via `/joke-lab-reels`
+- Scoring whether a reel is worth making → `ops/reels_that_work.md` scorecard via `/joke-lab-reels`
 - Script fixes → `/content` or `/joke-lab-content`
 
 ## Arguments

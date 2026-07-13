@@ -51,10 +51,14 @@
 - why does everything that we do has to amount to something... why cant there be something that we do purely for fun 
 - People say fuck what people think, i say no lets give a fuck about log kya kahenge
 - Monickers - they can never justify what you do completely
-- the predicament of ordering food when its too hot or raining
+- the predicament of ordering food when its too hot or raining outside
 - Bathroom slab filled with tissue paper
 - Prices of things in airport
 - Hi Prateek good morning
-- Sometimes we work as if, if we dont the company is going to close. That is almost never the case - I lost my eye to this almost i have backpain, cervical issues and vertigo because of this 
+- Sometimes we work as if, if we dont the company is going to close. That is  never the case - I lost my eye to this almost i have backpain, cervical issues and vertigo because of this 
 - people prefer murder over saying no - very cliche for indian society
 - you are what you eat
+- For my brain instagram is a comparision machine
+- When hobby starts paying rent it no more is fun - so buy a house before starting a hobby
+- specific truth is always funny than madeup stories
+- I dont tell my wife that im recording this podcast, she does not know anything about idk why either im ashamed of it or IDK what is it 

@@ -157,7 +157,7 @@ etc.
 The thumbnail is not a summary of the episode — it's a trap only the episode can spring. Its one job is to make scrolling past feel impossible. Design for maximum click tension, then let the episode pay it off: escalate the real premise to its most dramatic TRUE framing. Never promise what the episode doesn't deliver — a lied-to viewer leaves in 20 seconds, and the algorithm reads that as a bad video.
 
 **Click mechanics — every thumbnail needs all four:**
-1. **A big face with a big emotion.** The mascot's face fills 30–40% of the frame, readable at 120px (thumbnail size on a phone). NEVER Deadpan — thumbnails use the kit at maximum voltage: Are You Serious, Spiral, Smug Roast, or Am I Audible. Deadpan is for inside the episode; the door needs electricity.
+1. **A deadpan face in a frame full of action.** The mascot's face fills 30–40% of the frame, readable at 120px (thumbnail size on a phone). His expression is ALWAYS Deadpan — flat, unbothered, dead calm. The voltage lives in everything AROUND him: chaos, motion, props mid-flight, a scene going wrong. The click tension IS the gap between the mayhem in the frame and the total calm on his face. Never use an animated expression (Are You Serious, Spiral, etc.) on a thumbnail — the face never reacts; the frame does.
 2. **A planted question.** Show the reaction without the cause, or the cause without the reaction — never both. If thumbnail + title together tell the whole story, there is nothing left to click for.
 3. **3–4 words max.** Heavy black uppercase, profanity censored (F**k), and NEVER repeating the title — title carries the promise, thumbnail carries the feeling. If /packaging already picked the title, check the text against it.
 4. **One focal point.** One face, one prop, one text block. Anything the eye has to choose between at small size gets deleted.
@@ -169,7 +169,7 @@ The thumbnail is not a summary of the episode — it's a trap only the episode c
 For each concept give: composition, mascot expression, exact text overlay, the question it plants in the viewer's head, and a copy-paste image prompt.
 
 **Thumbnail prompt skeleton:**
-> `Extreme close-up of the mascot, [expression at maximum intensity], face filling 30-40% of frame. Acid yellow background (#F2FF00). [One supporting prop or element]. Bold black outlines, semi-flat 2D illustration style, high contrast, NOT photorealistic, NOT 3D render. Resolution 1280x720. Leave clear space at [position] for text overlay.`
+> `Close-up of the mascot, completely deadpan expression, flat unbothered stare, face filling 30-40% of frame. [High-action scene happening around him — chaos, motion, things mid-flight]. Acid yellow background (#F2FF00). Bold black outlines, semi-flat 2D illustration style, high contrast, NOT photorealistic, NOT 3D render. Resolution 1280x720. Leave clear space at [position] for text overlay.`
 
 Text goes on as an overlay in Canva — never baked into the generated image.
 
@@ -183,7 +183,7 @@ Text goes on as an overlay in Canva — never baked into the generated image.
 - Text overlays: use for punchlines and corrections only — not every line
 - Background changes: one per major chapter, not more frequently
 - Always end the brief with the closing image — what is on screen when the episode ends
-- **Thumbnail brief is mandatory:** 2 concepts, animated expression only (never Deadpan), text never repeating the title, tension honest — the episode must pay off whatever the thumbnail promises
+- **Thumbnail brief is mandatory:** 2 concepts, deadpan face with all the action in the frame around him (never an animated expression on his face), text never repeating the title, tension honest — the episode must pay off whatever the thumbnail promises
 - **Story B (Two-Story Rule):** Every Short/Reel must have 3–5 background easter eggs that form their own arc. Always write out the Story B plan before writing scenes. Always include the easter egg in the Image Prompt.
 
 ## Arguments

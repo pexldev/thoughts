@@ -1,51 +1,48 @@
-# Date
+# Date : 12th July 2026
 
 # Topic: [TOPIC NAME]
 
-[1–2 lines on the premise. What's the cliché, assumption, or situation? What does everyone believe about it?]
+Karma
 
 ## Working Thesis — write a first guess NOW, refine as you go
 
-> **Thesis (draft):** [your best one-line guess at what this is really about — it WILL change, write it anyway]
+> **Thesis (draft):** 
 >
-> **Thesis (locked):** [fill this in after Level 3 — no jokes get written until this line exists]
-
-The thesis is the audience's *prediction*. Every joke must live inside the thesis and break the prediction. If a joke is funny but doesn't fit the locked thesis — it's not dead, it's for a DIFFERENT file. Move it, don't force it.
+> **Thesis (locked):** karm karo fal ki chinta nhi
 
 ---
 
 ## Level 1 – Obvious Questions
 
-- Why?
-- Who decided this?
-- What assumption is hiding here?
-- What if the opposite were true?
-- What if you took it completely literally?
-- If aliens saw this, what would confuse them?
-- Who does this NOT apply to?
+- This is just a gita quote that everyone loves to toute 
+- It is impossible to follow
+- I think of the 'fal' before i even start of thinking about karma
+- That fal stops me from doing karma 
+- Do animals do that ?
+- Why do people do that is it because it is fal ki chinta karna is a better option than karma
+- Its clearly because it is easier to worry about actions than doing karma 
 
 ---
 
 ## Level 2 – Pattern Questions
 
 ### Hack 1 — Where else have I seen this? ⭐
-- 
-
-### Hack 2 — What's the verb here?
-- 
-
-### Hack 3 — If I replaced the nouns, would the sentence still be true?
-- 
+- I see this everyday in my life. I tried learning spanish and i could not do it because i was thinking about the fal so much that i never bothered acting on it 
+- The only thing that is paying my bills is because i only did karm and never bothered about thinking of the fal, well i did that karm because I did not like the job and i had to do it with an absent mind. Yeah may be i should hate doing this too then i will get better at this
+- Imagine getting better at a job just becaue you were doing it for 10 years & not because you liked it. 
+- I have never seen it in animals
+- I upload a video and for me i want 1 million views in 10secs
+- Do successful people do this - all that manifestation shit ?
 
 ---
 
 ## Level 2.5 – Opposites
 
-- Who doesn't believe this?
-- When is the opposite actually true?
-- What if the "bad" version is objectively better?
-- What if you're already on the winning side and don't know it?
-- What happens if everyone does this at the same time?
+- Succesful people dont believe in it - is it true ? 
+- The opposite is what i live karm mat karo, fal ki chinta karo
+- I have seen so many cases, creators, human beings in general who have been at it for years but not able to crack it, that is what worries the most
+- Then i see people who upload 1 video and become viral. BUt then that virality is also for 10 days or 1 month may be
+- 
 
 ---
 

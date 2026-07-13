@@ -56,7 +56,8 @@ That is not a man who wants to have a conversation.
 
 That is a man who is about to put on a show
 
-In that meeting was 
+In that meeting was - apart from my friend 
+there was
 Manager.
 Senior manager.
 and 
@@ -106,15 +107,17 @@ They go,
 "Done."
 
 Call ends.
+He recieves the email 
+He pulls his paper back
 
 he stays
-
+cut to
 Two months later...
 
 Appraisal comes.
 
 Ten percent.
-TEN FUCKING PERCENT
+TEN FUCKING PERCENT is what he got in his appraisal
 
 He asks,
 
@@ -132,12 +135,10 @@ performance review outcomes
 determined by management
 at their sole discretion."
 
-Their sole discretion.
-
-His sole discretion gave him an average rating
+Their sole discretion gave him an average rating
 
 
-And let me tell you another thing
+And the thing is 
 When they went on mute to plan this 
 
 That manager...
@@ -160,32 +161,31 @@ The scam worked
 Now.
 
 Before I become the guy on the podcast
-preaching you that bad people are bad —
+preaching you why bad people are bad —
 
 Let me tell you what I do
 
-My barber goes,
+My barber tell me,
 
-"Lot of grey hair. You want to dye it?"
+"bro, Lot of grey hair. You want to dye it?"
 
 I go,
 
 'I dont have time, brother'
 
-I have time.
 
-I'm going to go home and think about
+I need to go home and think about
 what to record on the podcast.
 which gets 1 view 
 my own view 
 
 That's a free lie. Nobody gets hurt.
 
-This next one, someone gets hurt.
- 
-at work someone in stand up meeting  goes like  —
+Now let's move to professional lying.
 
-"Prateek, we have been asking your help on this for past one week with this, could you please look into this?"
+at work someone in morning stand up meeting  goes like  —
+
+"Prateek, we have been asking your help on this for past one week , could you please look into this?"
 
 "Oh god, was I supposed to?
 I'm so sorry, completely slipped my mind."
@@ -208,18 +208,18 @@ I lie to dodge work.
 Small lies.
 Free lies.
 Nobody loses money.
+Npbody feels betrayed
 
-You'd think a guy who lies this much
-would be impossible to scam.
+But
 
 pause
 
-Let me tell you about my gym trainer.
+Let me tell you about this gym trainer.
 
 
 He comes to me and goes,
 
-"Sir... your frame is good."
+"Sir... your body frame is good."
 
 "Just work with me for 3 weeks."
 
@@ -253,9 +253,8 @@ How do such people live with themselves?
 
 Very well, actually.
 
-The manager slept fine that night.
-HR slept fine.
-My gym trainer slept fine —
+The manager must have slept just fine that night.
+My gym trainer slept must have slept fine —
 on a mattress stuffed with my ten thousand rupees.
 
 You know who didn't sleep?
@@ -271,12 +270,10 @@ Googling "sole discretion meaning in Hindi."
 
 pause
 
-So that's the system, yaar.
+So that's the system.
 
-Bad people sleep.
-Good people read fine print at 2 AM.
 
-And me?
+And if you ask me?
 
 beat
 
@@ -284,8 +281,8 @@ I sleep great.
 
 Make of that what you will.
 
-please let me know
-because I could be wrong about all of this
+please let me know what do you think of all this 
+because I could be wrong
 
 My name is Prateek.
 This is I Could Be Wrong.
@@ -293,7 +290,6 @@ See you in the next one.
 
 BYE
 
-please let me know in the comments
 
 
 

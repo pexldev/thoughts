@@ -1,4 +1,4 @@
-### All these are strong ways of opening a loop
+# All these are strong ways of opening a loop
 
 
 1. The Strong Opinion --> "I think self-improvement is one of the biggest scams on the internet."
