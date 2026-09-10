@@ -1,0 +1,66 @@
+[
+  {
+    "text": "that call that you are getting in the middle of the meeting That is a recruiter calling you",
+    "startMs": 60,
+    "endMs": 4000,
+    "startFrame": 2,
+    "endFrame": 120,
+    "holdToFrame": 120
+  },
+  {
+    "text": "Put yourself on mute and pick up that call",
+    "startMs": 4000,
+    "endMs": 6800,
+    "startFrame": 120,
+    "endFrame": 204,
+    "holdToFrame": 204
+  },
+  {
+    "text": "She'll ask you is it a good time to talk Absolutely it is a good time to talk",
+    "startMs": 6800,
+    "endMs": 12160,
+    "startFrame": 204,
+    "endFrame": 365,
+    "holdToFrame": 365
+  },
+  {
+    "text": "And while you are telling her this type a BRB in the chat then",
+    "startMs": 12160,
+    "endMs": 17050,
+    "startFrame": 365,
+    "endFrame": 512,
+    "holdToFrame": 512
+  },
+  {
+    "text": "Ask her for a 50% hike She will say ohh that is not my budget That is exactly her budget",
+    "startMs": 17050,
+    "endMs": 23600,
+    "startFrame": 512,
+    "endFrame": 708,
+    "holdToFrame": 708
+  },
+  {
+    "text": "Tell her lets schedule an interview Then go back to your meeting where you said BRB and type in back",
+    "startMs": 23600,
+    "endMs": 32400,
+    "startFrame": 708,
+    "endFrame": 972,
+    "holdToFrame": 972
+  },
+  {
+    "text": "And while you're sitting there on mute draft your PTO email for Monday We all know what you're doing next Monday",
+    "startMs": 32400,
+    "endMs": 38480,
+    "startFrame": 972,
+    "endFrame": 1154,
+    "holdToFrame": 1154
+  },
+  {
+    "text": "She knows you for 30 seconds and already values you 50% more than your company does",
+    "startMs": 38480,
+    "endMs": 45120,
+    "startFrame": 1154,
+    "endFrame": 1354,
+    "holdToFrame": 1354
+  }
+]

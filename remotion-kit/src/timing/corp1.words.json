@@ -1,0 +1,806 @@
+[
+  {
+    "text": "That",
+    "beat": 0,
+    "startFrame": 2,
+    "endFrame": 5
+  },
+  {
+    "text": "call",
+    "beat": 0,
+    "startFrame": 5,
+    "endFrame": 10
+  },
+  {
+    "text": "that",
+    "beat": 0,
+    "startFrame": 10,
+    "endFrame": 14
+  },
+  {
+    "text": "you're",
+    "beat": 0,
+    "startFrame": 14,
+    "endFrame": 20
+  },
+  {
+    "text": "getting",
+    "beat": 0,
+    "startFrame": 20,
+    "endFrame": 29
+  },
+  {
+    "text": "in",
+    "beat": 0,
+    "startFrame": 29,
+    "endFrame": 32
+  },
+  {
+    "text": "the",
+    "beat": 0,
+    "startFrame": 32,
+    "endFrame": 37
+  },
+  {
+    "text": "middle",
+    "beat": 0,
+    "startFrame": 37,
+    "endFrame": 46
+  },
+  {
+    "text": "of",
+    "beat": 0,
+    "startFrame": 46,
+    "endFrame": 50
+  },
+  {
+    "text": "the",
+    "beat": 0,
+    "startFrame": 50,
+    "endFrame": 53
+  },
+  {
+    "text": "meeting",
+    "beat": 0,
+    "startFrame": 53,
+    "endFrame": 65
+  },
+  {
+    "text": "that",
+    "beat": 0,
+    "startFrame": 65,
+    "endFrame": 73
+  },
+  {
+    "text": "is",
+    "beat": 0,
+    "startFrame": 73,
+    "endFrame": 77
+  },
+  {
+    "text": "a",
+    "beat": 0,
+    "startFrame": 77,
+    "endFrame": 80
+  },
+  {
+    "text": "recruiter",
+    "beat": 0,
+    "startFrame": 80,
+    "endFrame": 98
+  },
+  {
+    "text": "calling",
+    "beat": 0,
+    "startFrame": 98,
+    "endFrame": 113
+  },
+  {
+    "text": "you.",
+    "beat": 0,
+    "startFrame": 113,
+    "endFrame": 120
+  },
+  {
+    "text": "Put",
+    "beat": 1,
+    "startFrame": 120,
+    "endFrame": 127
+  },
+  {
+    "text": "yourself",
+    "beat": 1,
+    "startFrame": 127,
+    "endFrame": 146
+  },
+  {
+    "text": "on",
+    "beat": 1,
+    "startFrame": 146,
+    "endFrame": 151
+  },
+  {
+    "text": "mute",
+    "beat": 1,
+    "startFrame": 151,
+    "endFrame": 161
+  },
+  {
+    "text": "and",
+    "beat": 1,
+    "startFrame": 161,
+    "endFrame": 168
+  },
+  {
+    "text": "pick",
+    "beat": 1,
+    "startFrame": 168,
+    "endFrame": 179
+  },
+  {
+    "text": "up",
+    "beat": 1,
+    "startFrame": 179,
+    "endFrame": 184
+  },
+  {
+    "text": "that",
+    "beat": 1,
+    "startFrame": 184,
+    "endFrame": 193
+  },
+  {
+    "text": "call.",
+    "beat": 1,
+    "startFrame": 193,
+    "endFrame": 204
+  },
+  {
+    "text": "She'll",
+    "beat": 2,
+    "startFrame": 204,
+    "endFrame": 221
+  },
+  {
+    "text": "ask",
+    "beat": 2,
+    "startFrame": 221,
+    "endFrame": 227
+  },
+  {
+    "text": "you,",
+    "beat": 2,
+    "startFrame": 227,
+    "endFrame": 239
+  },
+  {
+    "text": "Is",
+    "beat": 2,
+    "startFrame": 239,
+    "endFrame": 245
+  },
+  {
+    "text": "it",
+    "beat": 2,
+    "startFrame": 245,
+    "endFrame": 248
+  },
+  {
+    "text": "a",
+    "beat": 2,
+    "startFrame": 248,
+    "endFrame": 250
+  },
+  {
+    "text": "good",
+    "beat": 2,
+    "startFrame": 250,
+    "endFrame": 257
+  },
+  {
+    "text": "time",
+    "beat": 2,
+    "startFrame": 257,
+    "endFrame": 265
+  },
+  {
+    "text": "to",
+    "beat": 2,
+    "startFrame": 265,
+    "endFrame": 268
+  },
+  {
+    "text": "talk?",
+    "beat": 2,
+    "startFrame": 268,
+    "endFrame": 286
+  },
+  {
+    "text": "Absolutely,",
+    "beat": 2,
+    "startFrame": 286,
+    "endFrame": 326
+  },
+  {
+    "text": "it",
+    "beat": 2,
+    "startFrame": 326,
+    "endFrame": 330
+  },
+  {
+    "text": "is",
+    "beat": 2,
+    "startFrame": 330,
+    "endFrame": 334
+  },
+  {
+    "text": "a",
+    "beat": 2,
+    "startFrame": 334,
+    "endFrame": 335
+  },
+  {
+    "text": "good",
+    "beat": 2,
+    "startFrame": 335,
+    "endFrame": 343
+  },
+  {
+    "text": "time",
+    "beat": 2,
+    "startFrame": 343,
+    "endFrame": 351
+  },
+  {
+    "text": "to",
+    "beat": 2,
+    "startFrame": 351,
+    "endFrame": 355
+  },
+  {
+    "text": "talk.",
+    "beat": 2,
+    "startFrame": 355,
+    "endFrame": 365
+  },
+  {
+    "text": "And",
+    "beat": 3,
+    "startFrame": 365,
+    "endFrame": 371
+  },
+  {
+    "text": "while",
+    "beat": 3,
+    "startFrame": 371,
+    "endFrame": 380
+  },
+  {
+    "text": "you're",
+    "beat": 3,
+    "startFrame": 380,
+    "endFrame": 390
+  },
+  {
+    "text": "telling",
+    "beat": 3,
+    "startFrame": 390,
+    "endFrame": 402
+  },
+  {
+    "text": "her",
+    "beat": 3,
+    "startFrame": 402,
+    "endFrame": 409
+  },
+  {
+    "text": "this,",
+    "beat": 3,
+    "startFrame": 409,
+    "endFrame": 418
+  },
+  {
+    "text": "type",
+    "beat": 3,
+    "startFrame": 418,
+    "endFrame": 432
+  },
+  {
+    "text": "a",
+    "beat": 3,
+    "startFrame": 432,
+    "endFrame": 437
+  },
+  {
+    "text": "BRB",
+    "beat": 3,
+    "startFrame": 437,
+    "endFrame": 445
+  },
+  {
+    "text": "in",
+    "beat": 3,
+    "startFrame": 445,
+    "endFrame": 452
+  },
+  {
+    "text": "the",
+    "beat": 3,
+    "startFrame": 452,
+    "endFrame": 463
+  },
+  {
+    "text": "chat",
+    "beat": 3,
+    "startFrame": 463,
+    "endFrame": 478
+  },
+  {
+    "text": "and",
+    "beat": 3,
+    "startFrame": 478,
+    "endFrame": 490
+  },
+  {
+    "text": "then",
+    "beat": 3,
+    "startFrame": 490,
+    "endFrame": 512
+  },
+  {
+    "text": "ask",
+    "beat": 4,
+    "startFrame": 512,
+    "endFrame": 514
+  },
+  {
+    "text": "her",
+    "beat": 4,
+    "startFrame": 514,
+    "endFrame": 521
+  },
+  {
+    "text": "for",
+    "beat": 4,
+    "startFrame": 521,
+    "endFrame": 528
+  },
+  {
+    "text": "50%",
+    "beat": 4,
+    "startFrame": 528,
+    "endFrame": 544
+  },
+  {
+    "text": "hike.",
+    "beat": 4,
+    "startFrame": 544,
+    "endFrame": 562
+  },
+  {
+    "text": "She'll",
+    "beat": 4,
+    "startFrame": 562,
+    "endFrame": 577
+  },
+  {
+    "text": "say,",
+    "beat": 4,
+    "startFrame": 577,
+    "endFrame": 590
+  },
+  {
+    "text": "Oh,",
+    "beat": 4,
+    "startFrame": 590,
+    "endFrame": 599
+  },
+  {
+    "text": "that",
+    "beat": 4,
+    "startFrame": 599,
+    "endFrame": 606
+  },
+  {
+    "text": "is",
+    "beat": 4,
+    "startFrame": 606,
+    "endFrame": 608
+  },
+  {
+    "text": "not",
+    "beat": 4,
+    "startFrame": 608,
+    "endFrame": 613
+  },
+  {
+    "text": "my",
+    "beat": 4,
+    "startFrame": 613,
+    "endFrame": 617
+  },
+  {
+    "text": "budget.",
+    "beat": 4,
+    "startFrame": 617,
+    "endFrame": 634
+  },
+  {
+    "text": "That",
+    "beat": 4,
+    "startFrame": 634,
+    "endFrame": 645
+  },
+  {
+    "text": "is",
+    "beat": 4,
+    "startFrame": 645,
+    "endFrame": 651
+  },
+  {
+    "text": "exactly",
+    "beat": 4,
+    "startFrame": 651,
+    "endFrame": 672
+  },
+  {
+    "text": "her",
+    "beat": 4,
+    "startFrame": 672,
+    "endFrame": 680
+  },
+  {
+    "text": "budget.",
+    "beat": 4,
+    "startFrame": 680,
+    "endFrame": 708
+  },
+  {
+    "text": "Tell",
+    "beat": 5,
+    "startFrame": 708,
+    "endFrame": 715
+  },
+  {
+    "text": "her,",
+    "beat": 5,
+    "startFrame": 715,
+    "endFrame": 731
+  },
+  {
+    "text": "Let's",
+    "beat": 5,
+    "startFrame": 731,
+    "endFrame": 742
+  },
+  {
+    "text": "schedule",
+    "beat": 5,
+    "startFrame": 742,
+    "endFrame": 761
+  },
+  {
+    "text": "an",
+    "beat": 5,
+    "startFrame": 761,
+    "endFrame": 765
+  },
+  {
+    "text": "interview.",
+    "beat": 5,
+    "startFrame": 765,
+    "endFrame": 787
+  },
+  {
+    "text": "Then",
+    "beat": 5,
+    "startFrame": 787,
+    "endFrame": 793
+  },
+  {
+    "text": "go",
+    "beat": 5,
+    "startFrame": 793,
+    "endFrame": 794
+  },
+  {
+    "text": "back",
+    "beat": 5,
+    "startFrame": 794,
+    "endFrame": 799
+  },
+  {
+    "text": "to",
+    "beat": 5,
+    "startFrame": 799,
+    "endFrame": 802
+  },
+  {
+    "text": "your",
+    "beat": 5,
+    "startFrame": 802,
+    "endFrame": 806
+  },
+  {
+    "text": "meeting",
+    "beat": 5,
+    "startFrame": 806,
+    "endFrame": 816
+  },
+  {
+    "text": "where",
+    "beat": 5,
+    "startFrame": 816,
+    "endFrame": 830
+  },
+  {
+    "text": "you",
+    "beat": 5,
+    "startFrame": 830,
+    "endFrame": 839
+  },
+  {
+    "text": "said",
+    "beat": 5,
+    "startFrame": 839,
+    "endFrame": 850
+  },
+  {
+    "text": "BRB",
+    "beat": 5,
+    "startFrame": 850,
+    "endFrame": 859
+  },
+  {
+    "text": "and",
+    "beat": 5,
+    "startFrame": 864,
+    "endFrame": 877
+  },
+  {
+    "text": "type",
+    "beat": 5,
+    "startFrame": 877,
+    "endFrame": 898
+  },
+  {
+    "text": "in",
+    "beat": 5,
+    "startFrame": 898,
+    "endFrame": 911
+  },
+  {
+    "text": "B-A-C-K,",
+    "beat": 5,
+    "startFrame": 911,
+    "endFrame": 951
+  },
+  {
+    "text": "back.",
+    "beat": 5,
+    "startFrame": 951,
+    "endFrame": 972
+  },
+  {
+    "text": "And",
+    "beat": 6,
+    "startFrame": 972,
+    "endFrame": 976
+  },
+  {
+    "text": "while",
+    "beat": 6,
+    "startFrame": 976,
+    "endFrame": 984
+  },
+  {
+    "text": "you're",
+    "beat": 6,
+    "startFrame": 984,
+    "endFrame": 993
+  },
+  {
+    "text": "sitting",
+    "beat": 6,
+    "startFrame": 993,
+    "endFrame": 1004
+  },
+  {
+    "text": "there",
+    "beat": 6,
+    "startFrame": 1004,
+    "endFrame": 1011
+  },
+  {
+    "text": "on",
+    "beat": 6,
+    "startFrame": 1011,
+    "endFrame": 1014
+  },
+  {
+    "text": "mute,",
+    "beat": 6,
+    "startFrame": 1014,
+    "endFrame": 1025
+  },
+  {
+    "text": "draft",
+    "beat": 6,
+    "startFrame": 1025,
+    "endFrame": 1034
+  },
+  {
+    "text": "your",
+    "beat": 6,
+    "startFrame": 1034,
+    "endFrame": 1041
+  },
+  {
+    "text": "PTO",
+    "beat": 6,
+    "startFrame": 1041,
+    "endFrame": 1046
+  },
+  {
+    "text": "email",
+    "beat": 6,
+    "startFrame": 1046,
+    "endFrame": 1055
+  },
+  {
+    "text": "for",
+    "beat": 6,
+    "startFrame": 1055,
+    "endFrame": 1061
+  },
+  {
+    "text": "Monday.",
+    "beat": 6,
+    "startFrame": 1061,
+    "endFrame": 1078
+  },
+  {
+    "text": "We",
+    "beat": 6,
+    "startFrame": 1078,
+    "endFrame": 1082
+  },
+  {
+    "text": "all",
+    "beat": 6,
+    "startFrame": 1082,
+    "endFrame": 1088
+  },
+  {
+    "text": "know",
+    "beat": 6,
+    "startFrame": 1088,
+    "endFrame": 1096
+  },
+  {
+    "text": "what",
+    "beat": 6,
+    "startFrame": 1096,
+    "endFrame": 1104
+  },
+  {
+    "text": "you're",
+    "beat": 6,
+    "startFrame": 1104,
+    "endFrame": 1116
+  },
+  {
+    "text": "doing",
+    "beat": 6,
+    "startFrame": 1116,
+    "endFrame": 1126
+  },
+  {
+    "text": "next",
+    "beat": 6,
+    "startFrame": 1126,
+    "endFrame": 1134
+  },
+  {
+    "text": "Monday.",
+    "beat": 6,
+    "startFrame": 1134,
+    "endFrame": 1154
+  },
+  {
+    "text": "She",
+    "beat": 7,
+    "startFrame": 1154,
+    "endFrame": 1163
+  },
+  {
+    "text": "knows",
+    "beat": 7,
+    "startFrame": 1163,
+    "endFrame": 1177
+  },
+  {
+    "text": "you",
+    "beat": 7,
+    "startFrame": 1177,
+    "endFrame": 1187
+  },
+  {
+    "text": "for",
+    "beat": 7,
+    "startFrame": 1187,
+    "endFrame": 1194
+  },
+  {
+    "text": "30",
+    "beat": 7,
+    "startFrame": 1194,
+    "endFrame": 1211
+  },
+  {
+    "text": "seconds",
+    "beat": 7,
+    "startFrame": 1211,
+    "endFrame": 1231
+  },
+  {
+    "text": "and",
+    "beat": 7,
+    "startFrame": 1231,
+    "endFrame": 1238
+  },
+  {
+    "text": "already",
+    "beat": 7,
+    "startFrame": 1238,
+    "endFrame": 1255
+  },
+  {
+    "text": "values",
+    "beat": 7,
+    "startFrame": 1255,
+    "endFrame": 1269
+  },
+  {
+    "text": "you",
+    "beat": 7,
+    "startFrame": 1269,
+    "endFrame": 1279
+  },
+  {
+    "text": "50%",
+    "beat": 7,
+    "startFrame": 1279,
+    "endFrame": 1292
+  },
+  {
+    "text": "more",
+    "beat": 7,
+    "startFrame": 1292,
+    "endFrame": 1303
+  },
+  {
+    "text": "than",
+    "beat": 7,
+    "startFrame": 1303,
+    "endFrame": 1312
+  },
+  {
+    "text": "your",
+    "beat": 7,
+    "startFrame": 1312,
+    "endFrame": 1323
+  },
+  {
+    "text": "company",
+    "beat": 7,
+    "startFrame": 1323,
+    "endFrame": 1337
+  },
+  {
+    "text": "does.",
+    "beat": 7,
+    "startFrame": 1337,
+    "endFrame": 1354
+  }
+]

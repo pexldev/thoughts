@@ -1,0 +1,31 @@
+{
+  "name": "remotion-kit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "studio": "remotion studio",
+    "extract": "node scripts/extract-mascot.js",
+    "render:cta": "remotion render src/index.ts CTACard out/cta_end_card.mp4",
+    "render:demo": "remotion render src/index.ts DemoReel out/demo_reel.mp4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@remotion/captions": "^4.0.512",
+    "@remotion/cli": "^4.0.512",
+    "@remotion/google-fonts": "^4.0.512",
+    "@remotion/install-whisper-cpp": "^4.0.512",
+    "@remotion/media-utils": "^4.0.512",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "remotion": "^4.0.512"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.18",
+    "pngjs": "^7.0.0",
+    "typescript": "^7.0.2"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "width": 464,
+  "height": 732,
+  "aspect": 0.6338797814207651,
+  "srcs": [
+    "mascot/rig/h0.png",
+    "mascot/rig/h1.png",
+    "mascot/rig/h2.png",
+    "mascot/rig/h3.png"
+  ],
+  "blinkSrcs": [],
+  "labels": [
+    "shut",
+    "ajar",
+    "half",
+    "wide"
+  ],
+  "defaultMood": "deadpan",
+  "moods": {
+    "grim": {
+      "lift": -8,
+      "srcs": [
+        "mascot/rig/hm_grim_0.png",
+        "mascot/rig/hm_grim_1.png",
+        "mascot/rig/hm_grim_2.png",
+        "mascot/rig/hm_grim_3.png"
+      ],
+      "blinkSrcs": []
+    },
+    "asbuilt": {
+      "lift": 0,
+      "srcs": [
+        "mascot/rig/hm_asbuilt_0.png",
+        "mascot/rig/hm_asbuilt_1.png",
+        "mascot/rig/hm_asbuilt_2.png",
+        "mascot/rig/hm_asbuilt_3.png"
+      ],
+      "blinkSrcs": []
+    },
+    "deadpan": {
+      "lift": 10,
+      "srcs": [
+        "mascot/rig/hm_deadpan_0.png",
+        "mascot/rig/hm_deadpan_1.png",
+        "mascot/rig/hm_deadpan_2.png",
+        "mascot/rig/hm_deadpan_3.png"
+      ],
+      "blinkSrcs": []
+    },
+    "smirk": {
+      "lift": 18,
+      "srcs": [
+        "mascot/rig/hm_smirk_0.png",
+        "mascot/rig/hm_smirk_1.png",
+        "mascot/rig/hm_smirk_2.png",
+        "mascot/rig/hm_smirk_3.png"
+      ],
+      "blinkSrcs": []
+    },
+    "smile": {
+      "lift": 26,
+      "srcs": [
+        "mascot/rig/hm_smile_0.png",
+        "mascot/rig/hm_smile_1.png",
+        "mascot/rig/hm_smile_2.png",
+        "mascot/rig/hm_smile_3.png"
+      ],
+      "blinkSrcs": []
+    }
+  }
+}

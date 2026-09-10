@@ -1,0 +1,58 @@
+[
+  {
+    "text": "For God's sake, don't do it. That one certification, don't.",
+    "startMs": 140,
+    "endMs": 5000,
+    "startFrame": 4,
+    "endFrame": 150,
+    "holdToFrame": 150
+  },
+  {
+    "text": "You're not going to get any new interviews because of that certification.",
+    "startMs": 5000,
+    "endMs": 8960,
+    "startFrame": 150,
+    "endFrame": 269,
+    "holdToFrame": 269
+  },
+  {
+    "text": "AI can do that certification. And AI will probably score better than you.",
+    "startMs": 8960,
+    "endMs": 14320,
+    "startFrame": 269,
+    "endFrame": 430,
+    "holdToFrame": 430
+  },
+  {
+    "text": "I know your manager asked you to do it. And I know he said your promotion depends on it. It does not.",
+    "startMs": 14320,
+    "endMs": 21640,
+    "startFrame": 430,
+    "endFrame": 649,
+    "holdToFrame": 649
+  },
+  {
+    "text": "He already knows who he is promoting. That certification is not going to change his mind.",
+    "startMs": 21640,
+    "endMs": 27680,
+    "startFrame": 649,
+    "endFrame": 830,
+    "holdToFrame": 846
+  },
+  {
+    "text": "You know it, I know it, Instagram knows it.",
+    "startMs": 28210,
+    "endMs": 31680,
+    "startFrame": 846,
+    "endFrame": 950,
+    "holdToFrame": 950
+  },
+  {
+    "text": "Go watch reels on Instagram. Go make reels on Instagram.",
+    "startMs": 31680,
+    "endMs": 35680,
+    "startFrame": 950,
+    "endFrame": 1070,
+    "holdToFrame": 1070
+  }
+]

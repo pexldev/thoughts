@@ -1,0 +1,74 @@
+[
+  {
+    "text": "My best friend Tony was also talking to my crush.",
+    "startMs": 0,
+    "endMs": 3500,
+    "startFrame": 0,
+    "endFrame": 105,
+    "holdToFrame": 105
+  },
+  {
+    "text": "One day it's pouring rain. Tony comes in his SUV, I'm standing there with my umbrella. And next to Tony sits my crush.",
+    "startMs": 3500,
+    "endMs": 11660,
+    "startFrame": 105,
+    "endFrame": 350,
+    "holdToFrame": 350
+  },
+  {
+    "text": "She calls me to hop in.",
+    "startMs": 11660,
+    "endMs": 13920,
+    "startFrame": 350,
+    "endFrame": 418,
+    "holdToFrame": 418
+  },
+  {
+    "text": "He drives us to his building basement. And he opens up his dicky.",
+    "startMs": 13920,
+    "endMs": 19700,
+    "startFrame": 418,
+    "endFrame": 591,
+    "holdToFrame": 591
+  },
+  {
+    "text": "And in the dicky is decoration. A garland which said — will you be my girlfriend.",
+    "startMs": 19700,
+    "endMs": 27700,
+    "startFrame": 591,
+    "endFrame": 831,
+    "holdToFrame": 831
+  },
+  {
+    "text": "Tony knew everything. He made her ask me to hop in so he could rub it on my face.",
+    "startMs": 27710,
+    "endMs": 34340,
+    "startFrame": 831,
+    "endFrame": 1030,
+    "holdToFrame": 1030
+  },
+  {
+    "text": "I asked my crush — are you going to say yes?",
+    "startMs": 34340,
+    "endMs": 37540,
+    "startFrame": 1030,
+    "endFrame": 1126,
+    "holdToFrame": 1126
+  },
+  {
+    "text": "She said yes.",
+    "startMs": 37540,
+    "endMs": 40680,
+    "startFrame": 1126,
+    "endFrame": 1220,
+    "holdToFrame": 1220
+  },
+  {
+    "text": "Then I said — congratulations guys. I'm so happy for you.",
+    "startMs": 40680,
+    "endMs": 45800,
+    "startFrame": 1220,
+    "endFrame": 1374,
+    "holdToFrame": 1374
+  }
+]

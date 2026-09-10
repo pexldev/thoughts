@@ -1,0 +1,680 @@
+[
+  {
+    "text": "My",
+    "beat": 0,
+    "startFrame": 0,
+    "endFrame": 14
+  },
+  {
+    "text": "best",
+    "beat": 0,
+    "startFrame": 14,
+    "endFrame": 15
+  },
+  {
+    "text": "friend",
+    "beat": 0,
+    "startFrame": 15,
+    "endFrame": 27
+  },
+  {
+    "text": "Tony",
+    "beat": 0,
+    "startFrame": 27,
+    "endFrame": 36
+  },
+  {
+    "text": "was",
+    "beat": 0,
+    "startFrame": 36,
+    "endFrame": 43
+  },
+  {
+    "text": "also",
+    "beat": 0,
+    "startFrame": 43,
+    "endFrame": 54
+  },
+  {
+    "text": "talking",
+    "beat": 0,
+    "startFrame": 54,
+    "endFrame": 68
+  },
+  {
+    "text": "to",
+    "beat": 0,
+    "startFrame": 68,
+    "endFrame": 72
+  },
+  {
+    "text": "my",
+    "beat": 0,
+    "startFrame": 72,
+    "endFrame": 77
+  },
+  {
+    "text": "crush.",
+    "beat": 0,
+    "startFrame": 77,
+    "endFrame": 105
+  },
+  {
+    "text": "One",
+    "beat": 1,
+    "startFrame": 105,
+    "endFrame": 111
+  },
+  {
+    "text": "day",
+    "beat": 1,
+    "startFrame": 111,
+    "endFrame": 118
+  },
+  {
+    "text": "it's",
+    "beat": 1,
+    "startFrame": 118,
+    "endFrame": 126
+  },
+  {
+    "text": "pouring",
+    "beat": 1,
+    "startFrame": 126,
+    "endFrame": 140
+  },
+  {
+    "text": "rain,",
+    "beat": 1,
+    "startFrame": 140,
+    "endFrame": 155
+  },
+  {
+    "text": "Tony",
+    "beat": 1,
+    "startFrame": 155,
+    "endFrame": 166
+  },
+  {
+    "text": "comes",
+    "beat": 1,
+    "startFrame": 166,
+    "endFrame": 182
+  },
+  {
+    "text": "in",
+    "beat": 1,
+    "startFrame": 182,
+    "endFrame": 188
+  },
+  {
+    "text": "his",
+    "beat": 1,
+    "startFrame": 188,
+    "endFrame": 197
+  },
+  {
+    "text": "SUV,",
+    "beat": 1,
+    "startFrame": 197,
+    "endFrame": 209
+  },
+  {
+    "text": "I'm",
+    "beat": 1,
+    "startFrame": 209,
+    "endFrame": 214
+  },
+  {
+    "text": "standing",
+    "beat": 1,
+    "startFrame": 214,
+    "endFrame": 221
+  },
+  {
+    "text": "there",
+    "beat": 1,
+    "startFrame": 221,
+    "endFrame": 228
+  },
+  {
+    "text": "with",
+    "beat": 1,
+    "startFrame": 228,
+    "endFrame": 238
+  },
+  {
+    "text": "my",
+    "beat": 1,
+    "startFrame": 238,
+    "endFrame": 243
+  },
+  {
+    "text": "umbrella,",
+    "beat": 1,
+    "startFrame": 243,
+    "endFrame": 268
+  },
+  {
+    "text": "and",
+    "beat": 1,
+    "startFrame": 268,
+    "endFrame": 277
+  },
+  {
+    "text": "next",
+    "beat": 1,
+    "startFrame": 277,
+    "endFrame": 289
+  },
+  {
+    "text": "to",
+    "beat": 1,
+    "startFrame": 289,
+    "endFrame": 295
+  },
+  {
+    "text": "Tony",
+    "beat": 1,
+    "startFrame": 295,
+    "endFrame": 308
+  },
+  {
+    "text": "sits",
+    "beat": 1,
+    "startFrame": 308,
+    "endFrame": 319
+  },
+  {
+    "text": "my",
+    "beat": 1,
+    "startFrame": 319,
+    "endFrame": 325
+  },
+  {
+    "text": "crush.",
+    "beat": 1,
+    "startFrame": 325,
+    "endFrame": 350
+  },
+  {
+    "text": "She",
+    "beat": 2,
+    "startFrame": 350,
+    "endFrame": 361
+  },
+  {
+    "text": "calls",
+    "beat": 2,
+    "startFrame": 361,
+    "endFrame": 377
+  },
+  {
+    "text": "me",
+    "beat": 2,
+    "startFrame": 377,
+    "endFrame": 381
+  },
+  {
+    "text": "to",
+    "beat": 2,
+    "startFrame": 381,
+    "endFrame": 389
+  },
+  {
+    "text": "hop",
+    "beat": 2,
+    "startFrame": 389,
+    "endFrame": 400
+  },
+  {
+    "text": "in.",
+    "beat": 2,
+    "startFrame": 400,
+    "endFrame": 418
+  },
+  {
+    "text": "He",
+    "beat": 3,
+    "startFrame": 418,
+    "endFrame": 423
+  },
+  {
+    "text": "drives",
+    "beat": 3,
+    "startFrame": 423,
+    "endFrame": 438
+  },
+  {
+    "text": "us",
+    "beat": 3,
+    "startFrame": 438,
+    "endFrame": 449
+  },
+  {
+    "text": "to",
+    "beat": 3,
+    "startFrame": 449,
+    "endFrame": 449
+  },
+  {
+    "text": "his",
+    "beat": 3,
+    "startFrame": 449,
+    "endFrame": 458
+  },
+  {
+    "text": "building",
+    "beat": 3,
+    "startFrame": 458,
+    "endFrame": 478
+  },
+  {
+    "text": "basement",
+    "beat": 3,
+    "startFrame": 478,
+    "endFrame": 499
+  },
+  {
+    "text": "and",
+    "beat": 3,
+    "startFrame": 499,
+    "endFrame": 506
+  },
+  {
+    "text": "then",
+    "beat": 3,
+    "startFrame": 506,
+    "endFrame": 517
+  },
+  {
+    "text": "over",
+    "beat": 3,
+    "startFrame": 517,
+    "endFrame": 527
+  },
+  {
+    "text": "there",
+    "beat": 3,
+    "startFrame": 527,
+    "endFrame": 542
+  },
+  {
+    "text": "he",
+    "beat": 3,
+    "startFrame": 542,
+    "endFrame": 547
+  },
+  {
+    "text": "opens",
+    "beat": 3,
+    "startFrame": 547,
+    "endFrame": 558
+  },
+  {
+    "text": "his",
+    "beat": 3,
+    "startFrame": 558,
+    "endFrame": 567
+  },
+  {
+    "text": "dickey.",
+    "beat": 3,
+    "startFrame": 567,
+    "endFrame": 591
+  },
+  {
+    "text": "And",
+    "beat": 4,
+    "startFrame": 591,
+    "endFrame": 600
+  },
+  {
+    "text": "in",
+    "beat": 4,
+    "startFrame": 600,
+    "endFrame": 606
+  },
+  {
+    "text": "his",
+    "beat": 4,
+    "startFrame": 606,
+    "endFrame": 616
+  },
+  {
+    "text": "dickey",
+    "beat": 4,
+    "startFrame": 616,
+    "endFrame": 633
+  },
+  {
+    "text": "is",
+    "beat": 4,
+    "startFrame": 633,
+    "endFrame": 660
+  },
+  {
+    "text": "decoration,",
+    "beat": 4,
+    "startFrame": 660,
+    "endFrame": 675
+  },
+  {
+    "text": "a",
+    "beat": 4,
+    "startFrame": 675,
+    "endFrame": 678
+  },
+  {
+    "text": "garland",
+    "beat": 4,
+    "startFrame": 678,
+    "endFrame": 701
+  },
+  {
+    "text": "which",
+    "beat": 4,
+    "startFrame": 701,
+    "endFrame": 716
+  },
+  {
+    "text": "said,",
+    "beat": 4,
+    "startFrame": 716,
+    "endFrame": 734
+  },
+  {
+    "text": "\"Will",
+    "beat": 4,
+    "startFrame": 734,
+    "endFrame": 752
+  },
+  {
+    "text": "you",
+    "beat": 4,
+    "startFrame": 752,
+    "endFrame": 763
+  },
+  {
+    "text": "be",
+    "beat": 4,
+    "startFrame": 763,
+    "endFrame": 774
+  },
+  {
+    "text": "my",
+    "beat": 4,
+    "startFrame": 774,
+    "endFrame": 778
+  },
+  {
+    "text": "girlfriend?\"",
+    "beat": 4,
+    "startFrame": 778,
+    "endFrame": 831
+  },
+  {
+    "text": "Tony",
+    "beat": 5,
+    "startFrame": 831,
+    "endFrame": 842
+  },
+  {
+    "text": "knew",
+    "beat": 5,
+    "startFrame": 842,
+    "endFrame": 853
+  },
+  {
+    "text": "everything,",
+    "beat": 5,
+    "startFrame": 853,
+    "endFrame": 887
+  },
+  {
+    "text": "he",
+    "beat": 5,
+    "startFrame": 887,
+    "endFrame": 892
+  },
+  {
+    "text": "made",
+    "beat": 5,
+    "startFrame": 892,
+    "endFrame": 903
+  },
+  {
+    "text": "her",
+    "beat": 5,
+    "startFrame": 903,
+    "endFrame": 911
+  },
+  {
+    "text": "ask",
+    "beat": 5,
+    "startFrame": 911,
+    "endFrame": 920
+  },
+  {
+    "text": "me",
+    "beat": 5,
+    "startFrame": 920,
+    "endFrame": 925
+  },
+  {
+    "text": "to",
+    "beat": 5,
+    "startFrame": 925,
+    "endFrame": 931
+  },
+  {
+    "text": "hop",
+    "beat": 5,
+    "startFrame": 931,
+    "endFrame": 939
+  },
+  {
+    "text": "in",
+    "beat": 5,
+    "startFrame": 939,
+    "endFrame": 950
+  },
+  {
+    "text": "so",
+    "beat": 5,
+    "startFrame": 950,
+    "endFrame": 952
+  },
+  {
+    "text": "that",
+    "beat": 5,
+    "startFrame": 952,
+    "endFrame": 965
+  },
+  {
+    "text": "he",
+    "beat": 5,
+    "startFrame": 965,
+    "endFrame": 969
+  },
+  {
+    "text": "could",
+    "beat": 5,
+    "startFrame": 969,
+    "endFrame": 983
+  },
+  {
+    "text": "rub",
+    "beat": 5,
+    "startFrame": 983,
+    "endFrame": 992
+  },
+  {
+    "text": "it",
+    "beat": 5,
+    "startFrame": 992,
+    "endFrame": 997
+  },
+  {
+    "text": "on",
+    "beat": 5,
+    "startFrame": 997,
+    "endFrame": 1003
+  },
+  {
+    "text": "my",
+    "beat": 5,
+    "startFrame": 1003,
+    "endFrame": 1009
+  },
+  {
+    "text": "face.",
+    "beat": 5,
+    "startFrame": 1009,
+    "endFrame": 1030
+  },
+  {
+    "text": "I",
+    "beat": 6,
+    "startFrame": 1030,
+    "endFrame": 1033
+  },
+  {
+    "text": "asked",
+    "beat": 6,
+    "startFrame": 1033,
+    "endFrame": 1046
+  },
+  {
+    "text": "my",
+    "beat": 6,
+    "startFrame": 1046,
+    "endFrame": 1050
+  },
+  {
+    "text": "crush,",
+    "beat": 6,
+    "startFrame": 1050,
+    "endFrame": 1067
+  },
+  {
+    "text": "\"Are",
+    "beat": 6,
+    "startFrame": 1067,
+    "endFrame": 1076
+  },
+  {
+    "text": "you",
+    "beat": 6,
+    "startFrame": 1076,
+    "endFrame": 1084
+  },
+  {
+    "text": "going",
+    "beat": 6,
+    "startFrame": 1084,
+    "endFrame": 1094
+  },
+  {
+    "text": "to",
+    "beat": 6,
+    "startFrame": 1094,
+    "endFrame": 1101
+  },
+  {
+    "text": "say",
+    "beat": 6,
+    "startFrame": 1101,
+    "endFrame": 1108
+  },
+  {
+    "text": "yes?\"",
+    "beat": 6,
+    "startFrame": 1108,
+    "endFrame": 1126
+  },
+  {
+    "text": "She",
+    "beat": 7,
+    "startFrame": 1126,
+    "endFrame": 1143
+  },
+  {
+    "text": "said",
+    "beat": 7,
+    "startFrame": 1143,
+    "endFrame": 1177
+  },
+  {
+    "text": "yes.",
+    "beat": 7,
+    "startFrame": 1177,
+    "endFrame": 1220
+  },
+  {
+    "text": "Then",
+    "beat": 8,
+    "startFrame": 1220,
+    "endFrame": 1230
+  },
+  {
+    "text": "I",
+    "beat": 8,
+    "startFrame": 1230,
+    "endFrame": 1232
+  },
+  {
+    "text": "said,",
+    "beat": 8,
+    "startFrame": 1232,
+    "endFrame": 1247
+  },
+  {
+    "text": "\"Congratulations",
+    "beat": 8,
+    "startFrame": 1247,
+    "endFrame": 1286
+  },
+  {
+    "text": "guys,",
+    "beat": 8,
+    "startFrame": 1286,
+    "endFrame": 1301
+  },
+  {
+    "text": "I'm",
+    "beat": 8,
+    "startFrame": 1301,
+    "endFrame": 1313
+  },
+  {
+    "text": "so",
+    "beat": 8,
+    "startFrame": 1313,
+    "endFrame": 1314
+  },
+  {
+    "text": "happy",
+    "beat": 8,
+    "startFrame": 1314,
+    "endFrame": 1325
+  },
+  {
+    "text": "for",
+    "beat": 8,
+    "startFrame": 1325,
+    "endFrame": 1334
+  },
+  {
+    "text": "you.\"",
+    "beat": 8,
+    "startFrame": 1334,
+    "endFrame": 1351
+  },
+  {
+    "text": "[",
+    "beat": 8,
+    "startFrame": 1355,
+    "endFrame": 1374
+  }
+]

@@ -1,0 +1,554 @@
+[
+  {
+    "text": "For",
+    "beat": 0,
+    "startFrame": 4,
+    "endFrame": 8
+  },
+  {
+    "text": "God's",
+    "beat": 0,
+    "startFrame": 8,
+    "endFrame": 22
+  },
+  {
+    "text": "sake,",
+    "beat": 0,
+    "startFrame": 22,
+    "endFrame": 36
+  },
+  {
+    "text": "don't",
+    "beat": 0,
+    "startFrame": 36,
+    "endFrame": 49
+  },
+  {
+    "text": "do",
+    "beat": 0,
+    "startFrame": 49,
+    "endFrame": 53
+  },
+  {
+    "text": "it.",
+    "beat": 0,
+    "startFrame": 53,
+    "endFrame": 60
+  },
+  {
+    "text": "That",
+    "beat": 0,
+    "startFrame": 60,
+    "endFrame": 74
+  },
+  {
+    "text": "one",
+    "beat": 0,
+    "startFrame": 74,
+    "endFrame": 81
+  },
+  {
+    "text": "certification,",
+    "beat": 0,
+    "startFrame": 81,
+    "endFrame": 134
+  },
+  {
+    "text": "don't.",
+    "beat": 0,
+    "startFrame": 134,
+    "endFrame": 150
+  },
+  {
+    "text": "You're",
+    "beat": 1,
+    "startFrame": 150,
+    "endFrame": 164
+  },
+  {
+    "text": "not",
+    "beat": 1,
+    "startFrame": 164,
+    "endFrame": 170
+  },
+  {
+    "text": "going",
+    "beat": 1,
+    "startFrame": 170,
+    "endFrame": 181
+  },
+  {
+    "text": "to",
+    "beat": 1,
+    "startFrame": 181,
+    "endFrame": 185
+  },
+  {
+    "text": "get",
+    "beat": 1,
+    "startFrame": 185,
+    "endFrame": 194
+  },
+  {
+    "text": "any",
+    "beat": 1,
+    "startFrame": 194,
+    "endFrame": 201
+  },
+  {
+    "text": "new",
+    "beat": 1,
+    "startFrame": 201,
+    "endFrame": 210
+  },
+  {
+    "text": "interviews",
+    "beat": 1,
+    "startFrame": 210,
+    "endFrame": 228
+  },
+  {
+    "text": "because",
+    "beat": 1,
+    "startFrame": 228,
+    "endFrame": 237
+  },
+  {
+    "text": "of",
+    "beat": 1,
+    "startFrame": 237,
+    "endFrame": 239
+  },
+  {
+    "text": "that",
+    "beat": 1,
+    "startFrame": 239,
+    "endFrame": 245
+  },
+  {
+    "text": "certification.",
+    "beat": 1,
+    "startFrame": 245,
+    "endFrame": 269
+  },
+  {
+    "text": "AI",
+    "beat": 2,
+    "startFrame": 269,
+    "endFrame": 275
+  },
+  {
+    "text": "can",
+    "beat": 2,
+    "startFrame": 275,
+    "endFrame": 287
+  },
+  {
+    "text": "do",
+    "beat": 2,
+    "startFrame": 287,
+    "endFrame": 290
+  },
+  {
+    "text": "that",
+    "beat": 2,
+    "startFrame": 290,
+    "endFrame": 302
+  },
+  {
+    "text": "certification.",
+    "beat": 2,
+    "startFrame": 302,
+    "endFrame": 343
+  },
+  {
+    "text": "And",
+    "beat": 2,
+    "startFrame": 343,
+    "endFrame": 350
+  },
+  {
+    "text": "AI",
+    "beat": 2,
+    "startFrame": 350,
+    "endFrame": 354
+  },
+  {
+    "text": "will",
+    "beat": 2,
+    "startFrame": 354,
+    "endFrame": 363
+  },
+  {
+    "text": "probably",
+    "beat": 2,
+    "startFrame": 363,
+    "endFrame": 381
+  },
+  {
+    "text": "score",
+    "beat": 2,
+    "startFrame": 381,
+    "endFrame": 395
+  },
+  {
+    "text": "better",
+    "beat": 2,
+    "startFrame": 395,
+    "endFrame": 406
+  },
+  {
+    "text": "than",
+    "beat": 2,
+    "startFrame": 406,
+    "endFrame": 415
+  },
+  {
+    "text": "you.",
+    "beat": 2,
+    "startFrame": 415,
+    "endFrame": 430
+  },
+  {
+    "text": "I",
+    "beat": 3,
+    "startFrame": 430,
+    "endFrame": 433
+  },
+  {
+    "text": "know",
+    "beat": 3,
+    "startFrame": 433,
+    "endFrame": 444
+  },
+  {
+    "text": "your",
+    "beat": 3,
+    "startFrame": 444,
+    "endFrame": 451
+  },
+  {
+    "text": "manager",
+    "beat": 3,
+    "startFrame": 451,
+    "endFrame": 467
+  },
+  {
+    "text": "asked",
+    "beat": 3,
+    "startFrame": 467,
+    "endFrame": 479
+  },
+  {
+    "text": "you",
+    "beat": 3,
+    "startFrame": 467,
+    "endFrame": 479
+  },
+  {
+    "text": "to",
+    "beat": 3,
+    "startFrame": 486,
+    "endFrame": 491
+  },
+  {
+    "text": "do",
+    "beat": 3,
+    "startFrame": 491,
+    "endFrame": 496
+  },
+  {
+    "text": "it.",
+    "beat": 3,
+    "startFrame": 496,
+    "endFrame": 502
+  },
+  {
+    "text": "And",
+    "beat": 3,
+    "startFrame": 502,
+    "endFrame": 510
+  },
+  {
+    "text": "I",
+    "beat": 3,
+    "startFrame": 510,
+    "endFrame": 512
+  },
+  {
+    "text": "know",
+    "beat": 3,
+    "startFrame": 512,
+    "endFrame": 523
+  },
+  {
+    "text": "he",
+    "beat": 3,
+    "startFrame": 523,
+    "endFrame": 529
+  },
+  {
+    "text": "said",
+    "beat": 3,
+    "startFrame": 529,
+    "endFrame": 543
+  },
+  {
+    "text": "your",
+    "beat": 3,
+    "startFrame": 543,
+    "endFrame": 551
+  },
+  {
+    "text": "promotion",
+    "beat": 3,
+    "startFrame": 551,
+    "endFrame": 566
+  },
+  {
+    "text": "depends",
+    "beat": 3,
+    "startFrame": 566,
+    "endFrame": 576
+  },
+  {
+    "text": "on",
+    "beat": 3,
+    "startFrame": 576,
+    "endFrame": 579
+  },
+  {
+    "text": "it.",
+    "beat": 3,
+    "startFrame": 579,
+    "endFrame": 589
+  },
+  {
+    "text": "It",
+    "beat": 3,
+    "startFrame": 589,
+    "endFrame": 599
+  },
+  {
+    "text": "does",
+    "beat": 3,
+    "startFrame": 599,
+    "endFrame": 625
+  },
+  {
+    "text": "not.",
+    "beat": 3,
+    "startFrame": 625,
+    "endFrame": 649
+  },
+  {
+    "text": "He",
+    "beat": 4,
+    "startFrame": 649,
+    "endFrame": 661
+  },
+  {
+    "text": "already",
+    "beat": 4,
+    "startFrame": 661,
+    "endFrame": 670
+  },
+  {
+    "text": "knows",
+    "beat": 4,
+    "startFrame": 670,
+    "endFrame": 681
+  },
+  {
+    "text": "who",
+    "beat": 4,
+    "startFrame": 681,
+    "endFrame": 687
+  },
+  {
+    "text": "he",
+    "beat": 4,
+    "startFrame": 687,
+    "endFrame": 692
+  },
+  {
+    "text": "is",
+    "beat": 4,
+    "startFrame": 692,
+    "endFrame": 696
+  },
+  {
+    "text": "promoting.",
+    "beat": 4,
+    "startFrame": 696,
+    "endFrame": 718
+  },
+  {
+    "text": "That",
+    "beat": 4,
+    "startFrame": 718,
+    "endFrame": 729
+  },
+  {
+    "text": "certification",
+    "beat": 4,
+    "startFrame": 729,
+    "endFrame": 760
+  },
+  {
+    "text": "is",
+    "beat": 4,
+    "startFrame": 760,
+    "endFrame": 766
+  },
+  {
+    "text": "not",
+    "beat": 4,
+    "startFrame": 766,
+    "endFrame": 772
+  },
+  {
+    "text": "going",
+    "beat": 4,
+    "startFrame": 772,
+    "endFrame": 785
+  },
+  {
+    "text": "to",
+    "beat": 4,
+    "startFrame": 785,
+    "endFrame": 789
+  },
+  {
+    "text": "change",
+    "beat": 4,
+    "startFrame": 789,
+    "endFrame": 804
+  },
+  {
+    "text": "his",
+    "beat": 4,
+    "startFrame": 804,
+    "endFrame": 812
+  },
+  {
+    "text": "mind.",
+    "beat": 4,
+    "startFrame": 812,
+    "endFrame": 830
+  },
+  {
+    "text": "You",
+    "beat": 5,
+    "startFrame": 846,
+    "endFrame": 854
+  },
+  {
+    "text": "know",
+    "beat": 5,
+    "startFrame": 854,
+    "endFrame": 863
+  },
+  {
+    "text": "it,",
+    "beat": 5,
+    "startFrame": 863,
+    "endFrame": 883
+  },
+  {
+    "text": "I",
+    "beat": 5,
+    "startFrame": 883,
+    "endFrame": 883
+  },
+  {
+    "text": "know",
+    "beat": 5,
+    "startFrame": 883,
+    "endFrame": 896
+  },
+  {
+    "text": "it,",
+    "beat": 5,
+    "startFrame": 896,
+    "endFrame": 914
+  },
+  {
+    "text": "Instagram",
+    "beat": 5,
+    "startFrame": 914,
+    "endFrame": 928
+  },
+  {
+    "text": "knows",
+    "beat": 5,
+    "startFrame": 928,
+    "endFrame": 939
+  },
+  {
+    "text": "it.",
+    "beat": 5,
+    "startFrame": 939,
+    "endFrame": 950
+  },
+  {
+    "text": "Go",
+    "beat": 6,
+    "startFrame": 950,
+    "endFrame": 959
+  },
+  {
+    "text": "watch",
+    "beat": 6,
+    "startFrame": 959,
+    "endFrame": 968
+  },
+  {
+    "text": "reels",
+    "beat": 6,
+    "startFrame": 968,
+    "endFrame": 981
+  },
+  {
+    "text": "on",
+    "beat": 6,
+    "startFrame": 981,
+    "endFrame": 987
+  },
+  {
+    "text": "Instagram.",
+    "beat": 6,
+    "startFrame": 987,
+    "endFrame": 1010
+  },
+  {
+    "text": "Go",
+    "beat": 6,
+    "startFrame": 1010,
+    "endFrame": 1016
+  },
+  {
+    "text": "make",
+    "beat": 6,
+    "startFrame": 1016,
+    "endFrame": 1027
+  },
+  {
+    "text": "reels",
+    "beat": 6,
+    "startFrame": 1027,
+    "endFrame": 1040
+  },
+  {
+    "text": "on",
+    "beat": 6,
+    "startFrame": 1040,
+    "endFrame": 1062
+  },
+  {
+    "text": "Instagram.",
+    "beat": 6,
+    "startFrame": 1062,
+    "endFrame": 1070
+  }
+]

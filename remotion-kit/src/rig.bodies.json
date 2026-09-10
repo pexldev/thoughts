@@ -1,0 +1,39 @@
+{
+  "poses": [
+    {
+      "src": "mascot/rig/b0.png",
+      "label": "hands at sides",
+      "width": 276,
+      "height": 788,
+      "aspect": 0.350253807106599
+    },
+    {
+      "src": "mascot/rig/b1.png",
+      "label": "arm out, explaining",
+      "width": 335,
+      "height": 791,
+      "aspect": 0.42351453855878635
+    },
+    {
+      "src": "mascot/rig/b2.png",
+      "label": "arms folded",
+      "width": 277,
+      "height": 789,
+      "aspect": 0.35107731305449935
+    },
+    {
+      "src": "mascot/rig/b3.png",
+      "label": "hands in pockets, leaning",
+      "width": 232,
+      "height": 784,
+      "aspect": 0.29591836734693877
+    },
+    {
+      "src": "mascot/rig/b4.png",
+      "label": "pointing off",
+      "width": 310,
+      "height": 791,
+      "aspect": 0.3919089759797724
+    }
+  ]
+}
