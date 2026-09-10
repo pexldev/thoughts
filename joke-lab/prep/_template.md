@@ -185,3 +185,15 @@ The thesis is the audience's *prediction*. Every joke must live inside the thesi
 - Order: strong open → escalate → close on the biggest OR the self-turn.
 - Plant one callback word/phrase here for a later observation in the episode.
 - Callback planted: 
+
+
+
+
+
+
+
+
+
+
+----------------------
+

@@ -142,10 +142,68 @@
 - Ladder frame for "funny at home" pitches: don't jump to stage/YouTube — scout the tiny domestic rungs (society gathering, sangeet, mundan). The funny lives in the granularity.
 - Drill pitches must come with receipts attached (his catch: you can't run the truth filter on an invented friend).
 
+## Keepers — session 7, live-fire mixed drill (Jul 14)
+
+**"Bro you're a comedian? Say something funny then."**
+→ "You want a show? My sister's a dental surgeon — go ask her to perform an extraction on me."
+(perform-on-command flip: nobody demands a surgeon operate at dinner, so hand the heckler the OTHER professional-as-party-trick. Second shell for the forever-pitch — pairs with the session-4 software-consultant burden-swap. Compression reps: killed the explaining tail "that will be funny," fixed the punch to land last, swapped "pluck my tooth" → clinical "perform an extraction on me" — the dry doctor-register is the mechanism. Deadpan clinical read, no smirk)
+
+**"You still doing that podcast thing? Thought you'd have quit by now."**
+→ "The other day I was crying — and I reached for my phone just to check if I can get any reels out of it. I think I need rehab."
+(podcast-as-addiction self-turn: accept "quit," reveal you can't — the content-brain has eaten your own grief. Garden-path: "I was crying" reads as a human confession, "check if I can get reels out of it" punishes it. Rehab = the button, lands last. His final cut beat the coach's draft — he deleted the "why am I crying" grief beat entirely, so "JUST to check if I can get reels" means the addict skips the tears altogether and goes straight to monetizing them. Colder = truer. Compression war: started as a paragraph flood, killed it to one cry + one monstrous question + rehab. Watch the caps-smirk — first draft had "help me QUIT" carrying the joke on emphasis)
+
+**"Relax, it's just a plate of pasta. Nobody cares."** (friend, watching you photograph your food)
+→ "Relax? My 8 followers care. One of them even likes pasta."
+(pity-sink + callback: accept "nobody cares," counter with an audit-tiny true number (8), then the tag shrinks it to 1 — and that 1 is here for the pasta, not you. Punch lands on "pasta," the friend's own word handed back. He self-cut a competing 2nd tag ["one's a Russian bot, I'm the only account he follows back"] because it needed follower-math to parse = explanation death — the internal explanation-editor is running on autopilot now)
+
+## Keepers — session 8, morning warmup (Jul 15)
+
+**"Bro you have a podcast? How many listeners, like your mom and three bots?"**
+→ "Nope, only 1. My mom and those three bots have better things to listen to."
+(concede-and-amplify: agree HARDER than the heckler, then flip his own ammo — even the mom + bots he named have better options. Warmup rep, live-fast. Coach's note: the tighter version keeps "One listener. Me." for the self-burn — the dropped "me" costs the joke that the lone listener is YOU. Rotate that back in when it's not a speed rep)
+
+## Keepers — session 9, mixed drill (Jul 23)
+
+**"Stick to consulting — at least you're good at THAT."**
+→ "You're right — I'm also good at eating. Doesn't mean I'll do it for a living."
+(reductio on his loaded logic "you're good at it, so do it": concede, then break the rule with a skill nobody gets paid for. Punch word last = living. 2-second speed — the tightest thing of the session, arrived AFTER a 4-line TED-talk version got cut. Rule surfaced: the parallel skill must be UN-professionalizable — first sharpen tried "omelettes" and broke the joke, because chefs are a real job. Eating / breathing / sleeping work; any real trade undercuts "doesn't mean I'll do it for a living")
+
+**"You should just quit while you're ahead."**
+→ "Ahead of whom, brother? The only thing ahead in my life is my age."
+(flip + self-turn on the loaded word "ahead": line one questions the premise — ahead of NO one — line two reframes "ahead" from success to just aging, punch word last = age. Tightened by REUSING "ahead" in line two so it callbacks line one — the repeated word welds the two lines into one punch. Watch the tell: he opened laughing at his own line — on stage that's signing for the joke before it lands)
+
+## Keepers — session 10, live-fire mixed drill (Jul 31)
+
+**"19 episodes, zero views. At what point is this just an expensive hobby with a microphone?"**
+→ "It'll always be an expensive hobby. It wouldn't be a hobby if it made me money — then it'd be a day job. And a day job makes me money and a divorcee."
+(concede the insult and re-file it as a *promotion I'm refusing* — money would DEMOTE this to work. Tag is a zeugma: two things yoked to one verb, second betrays the first. Compression war: first swing was a mission statement ["you think I'm here to earn money?"] = pure defense, and ending on a question hands the heckler the mic. Second swing escalated with the same word twice [zero views → zero followers] = one joke in two shirts. Overstatement/understatement test: "makes me money and suicidal" LOST to "divorcee" — suicidal is a stated feeling, divorcee is a consequence with a scene in it. Smaller and more specific won again)
+
+**"The jokes are okay. It's your delivery. You sound like a guy reading his own PowerPoint."**
+→ "Hmmmm... slide number 555 has an interesting joke about 'delivery.' Could you please wait till we reach the Q&A slide?"
+(over-agreement, played entirely inside HIS frame: accept the PowerPoint accusation and become the consultant, which demotes the heckler to a meeting attendee who spoke out of turn. Receipt order holds — slide 555 as credential, the shutdown last. "Interesting" is real consultant-deadpan; the quoted 'delivery' hands his own word back. DELIVERY: flat, procedural, mildly inconvenienced — zero smirk. Reps: first swing was "old habits die hard" [fridge magnet, second stock phrase of the session], second was "assume you're in a boardroom and enjoy the show" [right frame, but an instruction with no artifact in it])
+
+**"Why is it audio-only? Everyone's on video now. Feels like you're a decade late."**
+→ "If I turn the camera on, you'll realise why the mascot is better than my face. I'm not lying — ask my dad."
+(concede the format, blame the face: the "outdated" accusation gets re-filed as a mercy to the viewer. Punch word last = face. Tag is the outsourced verdict — same family as the wife keeper — and it's a live CALLBACK to the banked family answer where dad calls him ugly, so the two can run together in one set. DELIVERY TEST PENDING: bare "Ask my dad" may beat "I'm not lying — ask my dad"; the flat two-word verification is colder. Decide at the mic. Reps: first swing opened "better late than never" — third fridge magnet of the session — and buried the real joke behind it; the fix was cut the proverb, lead with the joke, and move the punch off the abstraction "a better idea" onto "my face")
+
+**"I'd listen, honestly, I just don't have time for podcasts."** (from the friend who sends you reels at 2 AM)
+→ "Ohh no, please don't listen — you please keep watching an Indian aunty licking a mango."
+(catch the lie with evidence, then GRANT him the alternative: no argument, no defense, just a blessing to continue what he's actually doing at 2 AM. The receipt is that he sends you these himself. Punch word last = mango. Reps + rules surfaced: (1) first swing filed him under "people who is up at 2 AM" — a CATEGORY doesn't sting, the man is standing right there; (2) second swing cut him out entirely ["it's not as interesting as watching..."] which let him off the hook — the lie went uncaught and it collapsed into plain self-burn; (3) third swing named Poonam Pandey — swapped back to the generic aunty, because a name-drop makes the room laugh at recognition instead of the picture, AND it aims a sex-adjacent punchline at a real named woman. Shame-test law: the cost lands on the friend, never on a bystander)
+
+**LAW — the exception to "never end on a question":** a question that INVITES a reply hands the heckler the mic ("you think I'm here to earn money?"). A question that DENIES the floor is a procedural order wearing a question mark ("could you please wait till the Q&A slide?"). Politeness is the knife. Test: can he answer it? If yes, cut it.
+
+**Rules from session 10:**
+- Stock phrases are the cornered reflex — "alcohol makes you do things," "old habits die hard." A proverb is a shrug hoping tone will carry it. When you reach for one, you've skipped the specific.
+- Escalating with the same word twice is one joke in two shirts (zero views → zero followers). Escalate with a different UNIT, not a bigger number of the same thing.
+- Overstatement/understatement test, ruled twice today: the smaller, uglier specific wins. "Suicidal" is a stated feeling and makes a room care instead of laugh; "divorcee" is a consequence with a scene in it. [[writing-tell-emotion-flinch]] confirmed again.
+- The insult usually contains the gift. "PowerPoint" isn't an attack on a consultant, it's home turf — check whether the heckler just handed you your own vocabulary before you concede anything.
+
 ## Set pile (graduated past comebacks — joke lab territory)
 
 - Incentive structure bit: "Listen, I've found a new incentive structure. Every gig equals one sex." (wife negotiation scene)
 - Analytics tag: "I think my podcast is 8 min too long." (consultant brain accepting watch-time data as product feedback)
+- Crying-flood bit (graduated from session 7): the content-brain interrogating its own tears like a dataset — "I stopped to write down why I'm crying, why I can't cry otherwise, what triggered it, how many jokes can I get out of this, how many reels can I get out of this." Escalation flood → the addiction eats even grief. Set version keeps the full interrogation run; the comeback keeps only "just to check if I can get reels." Button = "I think I need rehab." (disease-eats-your-own-pain premise — strong for a Wednesday cold-open too)
+- Russian-bot mutual-loneliness image (graduated from session 7): your one real Instagram follower is a Russian spam bot, and you're the only account it follows back — two nobody-accounts alone together. Needs room to build the sad picture (too much follower-math for a hallway comeback). Pairs with the 1-view/8-follower pity family.
 
 ## The 2-second skill
 
@@ -159,3 +217,45 @@
 - Brags bounce off — the room sides with the heckler. Twist it so it costs YOU.
 - Watch the third-flip dodge: the flip is the strong right hand, but over-relying on it means avoiding the self-turn. Throw the left.
 - Vague self-deprecation reads as fishing for pity; specific self-deprecation reads as a joke.
+
+## Replies to posts (X / Instagram) — session 11, as a stranger
+
+**X post, blue check, 40k likes: "I wake up at 4:30 AM. No alarm. My body just knows. Discipline isn't a habit, it's an identity. Most of you will read this and go back to sleep."**
+→ "My body is highly disciplined when it comes to sleep."
+(hijack his own credential word. He offers "discipline" as proof of superiority; the reply accepts the word, applies it to the opposite behaviour, and never argues with him. No attack, no concession — deadpan self-report that quietly makes his metric meaningless. Signature move confirmed: system vocabulary ["highly disciplined"] pointed at a soft human thing [sleeping in]. Punch word last = sleep. COMPRESSION PENDING: "when it comes to" is filler — test "My body is highly disciplined about sleep" at the mic; shorter may be colder. Reps: first swing was "better than waking up and posting about it" — the reply forty other people already left, and it opened with "better than", which concedes he IS better. Second swing gave the body a voice ["it's 4:30, go to sleep"] — right mechanism, wrong order, punch fired first then explained)
+
+**Rule from session 11 — the crowd's reply is not your reply.** Under a viral post the obvious counter ("you woke up to post about it") is already in the replies forty times. If it arrived in under two seconds, it's the room's line, not yours. Go one layer in: take his proudest PHRASE literally, or steal his credential word and misuse it.
+
+**Rule — never open a reply with "better than," "at least," or "imagine."** All three concede the other guy's frame before you've thrown anything.
+
+**Instagram, sunrise photo: "Not everyone will understand your journey. That's okay. It's not their path to walk. 🙏"**
+→ "My Uber driver understands the journey. He even knows the destination."
+(literalize the guru's proudest word, then escalate one rung. "Journey," "path," "destination" are Uber vocabulary — the reply doesn't mock the caption, it just files it under ride-hailing and lets the mysticism collapse. Second sentence is the escalation, not an explanation: the guru's entire pose is NOT knowing the destination, so the driver out-ranks him. Punch word last = destination. Reps: first two swings used dad picking him up from Kochi — right mechanism [journey = actual travel], but carried a third fragment "Travelling to Kochi" that explained the joke, and moving that fragment to the end instead of cutting it did not fix it. The unlock was swapping the character: dad is warm and specific to him, the Uber driver is a SYSTEM, and the system reading is what makes the guru language absurd)
+
+**Rule — moving fat is not cutting fat.** Test any clause by deleting it. If the joke survives, it was never doing the work where it sat; fold its detail into the punch line or bin it.
+
+**Rule — when a reply is stuck, swap the CHARACTER, not the words.** Dad → Uber driver turned a soft literal joke into the signature move. Pick the character who belongs to a system with vocabulary, and the target's language does the work for you.
+
+**LinkedIn screenshot on X: "I rejected a ₹40L offer because the founder didn't ask about my *why*. Money is temporary. Alignment is forever."**
+→ "Why?"
+(one word, two readings at once: it GRANTS the exact thing he complained nobody asked him, and it asks why he turned down 40 lakh. He can't answer either one without losing. No attack surface, nothing to quote-tweet back. The shortest reply in the bank and the coldest — proof that under a post that long, brevity is the contempt)
+
+**Rule — the one-word reply.** When the post is long and self-satisfied, the reply gets shorter, not smarter. Look for a single word in his own text that can be handed back with a second meaning attached. Length is engagement; one word is a verdict.
+
+**X, @IndianTechGuide, 492k views (22 Aug 2026): Bengaluru customer's Subko bill printed his name as "Little fat black shirt" instead of his name. Koramangala outlet.**
+→ "I went to Subko once. For me he wrote — old guy trying to look hip."
+(don't comment on the found document — PRODUCE YOUR OWN. The reply mirrors the bill's format, so it reads as a second receipt rather than a joke about the first. Cost lands entirely on him, so the real victim [a fat stranger being body-shamed on 492k views] is never touched. Punch word last = hip. Reps: (1) "if I go there he'd call me big fat black" — the crowd's move, same insult in a bigger size, and it re-aims at the victim; (2) "my name would just be Ugly Face in their database" — right structure, he's in the database and the cost is his, but WRONG NOUN: "ugly face" is him editorialising about himself, and vague self-deprecation reads as fishing for pity)
+
+**THE UNLOCK — the insult was a search term, not an insult.** "Little, fat, black shirt" is three fields a barista needs to find one man across a crowded room in two seconds. Once that's seen, the self-turn stops being "what's the mean thing about me" and becomes "what's the FINDABLE thing about me" — which is how "old guy trying to look hip" arrived. Specific because a real 22-year-old barista would genuinely type it.
+
+**Rule — when the news IS a document (bill, form, receipt, screenshot, notice), reply in the document's format.** Don't describe it, don't react to it, file your own entry. The format does the joke; you supply one true noun.
+
+**Rule — locate the joke in the FIELD, not the content.** The story looks like an insult story; it's actually a database story. Ask where the words physically sit (name field, subject line, required form input) before you ask what they say. [[signature-move-system-vocabulary]]
+
+**Instagram, school friend not spoken to in 11 years, photo of a baby's feet: "And just like that, we're a family of three. Everything before this was practice. 🤍"**
+→ "I'm still practicing."
+(same family as "Why?" — hand his own word back with a second meaning attached. He uses "practice" to mean the warm-up before real life; the reply accepts the frame completely and reports from inside the warm-up. Zero attack, so it survives under a newborn photo, and the whole cost is his. COMPRESSION TEST: bare "Still practising." may be colder — decide by the post. Reps: (1) "Can I practice?" — found the right word instantly, but landed on the "can I sleep with your wife" read under a baby photo, which costs the wife, a bystander. Same family as a mom joke, killed on the shame test. (2) "Now can we practice communication?" — turned on the 11 years of silence, which is the real gift in the post, but it's a DIG not a joke, and it seats him in the wounded chair)
+
+**Rule — the wounded seat is never the funny seat.** Grievance phrased as a question ("now can we...?") is a complaint with punctuation. If the reply makes him the aggrieved party, re-aim until the reply costs him instead.
+
+**Session 11 summary — the through-line of all five keepers: never argue, just apply the other guy's own vocabulary correctly and let him fall over.** "Discipline" pointed at sleeping in. "Journey/destination" filed under Uber. "Why" handed back. The bill's format answered with his own bill. "Practice" reported from inside. Not one of the five contains an insult.

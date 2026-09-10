@@ -103,6 +103,75 @@ Anatomy:
 - **Ends sincere BY DESIGN:** the dream question is usually the interview's last; a punchline there reads as armor. "Lucky" keeps the ranking while admitting both are dreams — warm, no flex, mic handed back.
 - Died in drafting: "do you think that is ever possible?" (a bleed — begging the host for reassurance; it existed because the answer was hiding the stage), "but if I could do both nothing like it" (wants everything, commits to nothing, un-picks the choice).
 
+## "Why does a Big-4 software consultant decide he's a comedian?" (IN PROGRESS — parked Jul 14, mid-build)
+
+Working bones (not yet locked — finish on the next Q&A session):
+- **Headline (strong, keep):** "I'm not a comedian, I'm just trying to be funny." → optional evidence: "If you don't believe me, go watch Joke Lab — 99% of the jokes aren't funny." Denies the premise + plants the self-deprecating attitude in one line.
+- **Turn (strong, keep):** "Do you own a mic?" — reframes the whole thing as *contagious*, like the mic is a gateway drug and the host is one purchase away from catching it. Hands the mic back = built-in Stop.
+- **Scene — THE HOLE.** Two candidates fought:
+  - (A, high voltage / self-cost) Lying in bed wishing the **ceiling fan** would fall on him — not for death, for *footage*: "so I'd finally have something to record." Content-brain escalated to hoping for his own tragedy. Same disease as the crying bit, one rung darker. Needs compression: kill the double-reason ("make my life more happening" AND "record it" → keep only the content motive), land on *record*. ⚠️ Delivery risk: too dark and a live host recoils instead of laughs — this one lives or dies on a light, throwaway read.
+  - (B, safe / low voltage) At work someone says "let's make a tracker for this tracker" and his brain instantly goes "new episode of Wednesday." True and relatable but doesn't cost him — pure "my content radar is always on."
+- **The flinch diagnosis:** he swapped A→B mid-session — the darker confession got uncomfortable so the office-friendly one walked in. His bar: the scene that costs HIM wins. [[writing-tell-emotion-flinch]]
+- **Untested structural option:** don't pick — *escalate the symptoms.* Tracker (mild) → crying-and-reaching-for-the-phone → ceiling-fan-wish (rock bottom). Addiction gets funnier as it gets darker. But that's a SET answer; for a tight Headline→Scene→Turn, one scene wins and it's A.
+
+## "How does your wife feel about you making comedy about your own life?" (mixed-drill kill, Jul 15)
+
+→ "She does not listen to it. I record it when she's not home — I can only have my wife or my mic in the bedroom, they don't get along. Once I was this close to getting caught. She almost saw my mic, so I hid her in the bathroom. I had to tell her there's a rat in the bathroom."
+
+Anatomy:
+- **The engine — wrong-frame answer:** a question about his WIFE gets answered like a confession of an AFFAIR. Every line is dual-coded: "record when she's not home," "in the bedroom," "getting caught." The room hears cheating. He found this himself, unprompted.
+- **The pronoun is the whole game:** "I hid **her** in the bathroom." One word turns the microphone into the other woman. Do not ever lose "her."
+- **Scene, not summary:** the bit only ignited once he stopped saying "the things I had to do that night" (telling) and PLAYED the near-miss — she opens the door, he hides the evidence. Show the crime, don't report it.
+- **The specific is the kill:** the **rat**. To protect his mistress he invented a rodent. Absurd, true-feeling, and it's the escalation the whole build was promising. Punch word last = rat.
+- **Compression war:** killed two explaining tails mid-session — "I've managed to play it safe for a long time" (breaks the affair voice, turns into narration) and "so that she doesn't go to that bathroom" (the room already knows why he lied). Land on the animal and stop.
+- Optional deadpan button (warm room only): after "rat in the bathroom" — "...it's not even funny." Only earns its place AFTER a specific, never instead of one.
+
+## "Comedy's oversaturated — what makes you think you'll break through?" (mixed-drill kill, Jul 15)
+
+→ "I don't think I'll make a breakthrough. I know I will. I also know that one day I'll be talking to Joe Rogan, I'll go on Bad Friends, and Bobby Lee will open for me. *(beat)* I live with that delulu."
+
+Anatomy:
+- **Headline = fold-back:** "I don't think I'll break through. I know I will." Contradicts himself in two sentences — the self-contradiction IS the joke (Hedberg family). The confidence arrives by overwriting the doubt.
+- **Scene = escalation with a rule-of-three:** Rogan (guest) → Bad Friends (guest) → Bobby Lee opens for me (the flip). Two rungs of "I'll be a guest on giant shows," third rung betrays the pattern — now they serve HIM. Punch word last = "me," the nobody with 1 view.
+- **The buried callback = the sharpest beat:** Bobby Lee HOSTS Bad Friends. So the host of the show he just named gets demoted to his opening act. The escalation weaponizes its own setup — keep the two names adjacent so the demotion lands.
+- **Turn/Stop = "I live with that delulu."** Flat, after a beat. The wild flight gets filed as a known delusion — the self-cost confession. Names the disease, doesn't defend it.
+- Died in drafting: "look at the irony, we're talking about a breakthrough podcast ON a podcast" — the meta-crutch again (a claim, not a joke). Cut. The delusion had to become VISIBLE (a scene) instead of stated ("I'm delusional").
+
+## "So you do comedy — what's it actually like, being funny for a living?" (mixed-drill kill, Jul 23)
+
+→ "The last time I told a joke, the audience reacted like someone sprayed pure urea in the room. When I think about it, that could be a solution — next time I'll just have someone pump the room full of laughing gas."
+
+Anatomy:
+- **The specific is the kill — "pure urea," not "pee."** The chemist brain reaching for the exact compound is his signature forensic-precision voice landing on a bodily image. This came out only after shrinking the question to "where were you standing, who was in the room" — the abstraction ("no one finds me funny," "it is tragic") had to be forced down to one concrete moment.
+- **Turn = the chemistry runner:** urea (bomb / no laughs) → laughing gas (chemically FORCE the laughs). The engineer confession: I'd rather drug the audience than get funnier. Self-cost baked into the "solution."
+- **Punch word last = laughing gas.** Land on the drug; don't trail on "in my show."
+- **Crutches retired live:** the wife-target and the 1-view receipt were both self-flagged as worn tells this session and eliminated — he found a fresh scene without either. Also killed a verbal tic: opened FOUR answers with "it is tragic" before banning it.
+- Died in drafting: "it is tragic" (repeated opener, became a security blanket), "even my wife tolerates me" (wife crutch + "tolerates" is a shrug not a turn), "have you ever watched my work?" (fishing question-back — begs the host, a leak), "one day / hopefully in this lifetime" (saggy second ending stapled after the real one).
+
+## "What does your family make of all this comedy stuff?" (mixed-drill kill, Jul 23)
+
+→ "They don't watch it — good. Because I say my dad calls me ugly. And I got that face from him."
+
+Anatomy:
+- **The boomerang:** dad's insult lands on his own genetics — he inherited the ugly face from the man who called it ugly. Fold-back family; the insult costs the right person. Punch word last = him.
+- **The scene beat "half my jokes are about my father" was a SUMMARY** — the joke only ignited when he named the ONE specific joke that would get him caught (dad thinks I'm ugly). Category → specific = the whole session's lesson again.
+- **Compression war (the long fight of the session):** he could not stop narrating the CONSEQUENCE — "if he finds out... he'll be very upset... because at the end of the day..." Every rewrite re-inflated the frame. Fixes that finally worked: (1) ban the escape-hatch words "if he finds out," "discuss," "because"; (2) the joke is TWO FACTS side by side with nothing between them — you don't say dad would be upset, you say the two facts and let the room be upset for him.
+- Cut in final pass: **"fat"** (loose thread — "and I got that face from him" only pays off the *face*, not the weight), and the double frame "they don't watch it" / "thank god they don't listen" bookending the joke twice — pick one.
+- Died in drafting: "that is the punishment for giving birth to me" (fridge-magnet aphorism), "do you have kids? just be thankful they're better than me" (third stapled-on ending / question-back tail), a whole detour into "he records his calls and plays them on my podcast" (a softer premise with NO turn — abandoned the strong boomerang for it, had to be pulled back).
+
+## "What made you start the podcast in the first place?" (mixed-drill kill, Jul 31)
+
+→ "Loneliness. I used to drink alone and play Joe Rogan on YouTube, and after a few drinks it was as if Joe Rogan and Elon Musk were in my living room. I thought — even I can do this, what's the big deal. Well, I'm still lonely, and thanks to this podcast I'm an alcoholic too."
+
+Anatomy:
+- **Headline = one word.** "Loneliness." No runway, no throat-clearing. The bravest available answer stated flat, which buys the room's attention for the scene.
+- **Scene = the hallucination of company.** He wasn't studying podcasts, he was drunk enough that two billionaires felt like housemates. The picture (Rogan + Musk in the living room) does the confessing — he never says "I had no friends."
+- **Turn = "even I can do this, what's the big deal"** — the delusion quoted at its source, arrogance and naivety in one line.
+- **Stop = zeugma.** "Still lonely, and thanks to this podcast I'm an alcoholic too" — two things yoked to one verb, second betrays the first. The cure failed AND generated a new symptom. "Thanks to" gives the credit sarcastically instead of complaining. Punch word last.
+- **Runner alert:** Rogan now appears in the origin story AND in the breakthrough answer ("one day I'll be talking to Joe Rogan"). Played in that order across an interview, the drunk hallucination becomes the setup and the delusion answer becomes its payoff. Free callback — sequence them deliberately.
+- Died in drafting: **"Alcohol... makes you do things"** — a stock shrug anyone could say, and it let alcohol take the blame for a bit that opened on loneliness. The button had to land back on the word the answer started with.
+- ⚠️ Same device as the same session's divorcee tag. The yoked-pair is his strong right hand — rotate it or it becomes a tell.
+
 ## Rules from session 1 (Jul 11)
 
 - The first draft of "what's it about" is always the witness answer: accurate, complete, forgettable. Generic test: if 10,000 podcasters could say your sentence verbatim, it describes a category, not your show.

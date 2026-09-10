@@ -13,6 +13,7 @@ Joke Lab writing is volume: ~10 jokes get written per observation, 4–5 survive
 - **Drawable** — the punchline paints a picture you can put on screen. Check the prep file for `🎬 frame:` tags. A radio joke (funny only in the ear) is allowed once per Reel, never twice in a row.
 - **Sibling rule** — if two jokes work the same angle, keep the harder one, cut the other.
 - **Escalation order** — arrange the survivors so each tops the last. **Hardest punchline goes LAST.**
+- **Repostable closer** — the closer's punch stamp must work as a standalone quotable frame: a line someone can repost with zero context and still get the laugh ("WE WON'T SAY HI. BUT WE'LL MARRY ONE."). Shares and reposts are what actually move distribution — validated on both ep1 breakout reels (Jul 2026: ~27% share-to-like ratio vs the 5–10% typical, plus one public repost, earned by the closer built as "closer AND a meme"). If the hardest joke doesn't quote well on a still frame, it runs second-to-last and the most quotable hard joke closes.
 
 Pick a run of **3–5 jokes** per Reel. Default output: the best **1–2 Reels per episode**, ranked, with the remaining observations flagged as second-tier (cut only if the week needs volume).
 

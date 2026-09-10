@@ -1,2 +1,11 @@
 analytics/credentials.json
 analytics/token.json
+
+# OS
+.DS_Store
+
+# python
+analytics/.venv/
+
+# whisper.cpp checkout (nested repo, ~1.5G)
+remotion-kit/.whisper/

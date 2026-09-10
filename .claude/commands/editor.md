@@ -12,7 +12,7 @@ The podcast is audio-first. Episodes are edited by stitching static images toget
 
 **Two non-negotiable rules for every single frame:**
 1. **The mascot is always visible.** He never disappears from screen. Cut-aways are overlays or split-screen — not full replacements. The mascot stays in frame at all times.
-2. **Acid yellow `#F2FF00` is always present.** Every image must have this color somewhere — background, border, or element. It is never fully absent from the frame.
+2. **Acid yellow `#F2FF00` is always present — as the signature, not the wallpaper.** Every image must have it, and it must be the brightest thing in the frame. It is never the *only* colour in the frame. See the Color System below.
 
 ---
 
@@ -22,6 +22,56 @@ The podcast is audio-first. Episodes are edited by stitching static images toget
 - **Secondary:** Black outlines, dark backgrounds for mood shifts
 - **Art style:** Bold black outlines, semi-flat 2D illustration, Indian urban setting
 - **Mascot:** Indian male, early 30s, dark curly hair, full beard, round glasses, dark t-shirt, chappals
+
+---
+
+## The Color System — read this before writing a single image prompt
+
+**Acid yellow is the signature, not the wallpaper.** A frame that is flat yellow with a black silhouette on it reads as *one shape* at phone size, and one shape gives the eye nothing to track while the audio works. Every frame gets real colour in it — inside a system tight enough that it still looks like the show.
+
+Full card: [prep/color_system.md](../../prep/color_system.md). Operative rules:
+
+**The five slots — every frame is built from these and nothing else:**
+
+| Slot | What | Rule |
+|---|---|---|
+| 1 | **Acid yellow `#F2FF00`** | Mandatory. ~20% of the frame minimum. Always the brightest thing on screen. |
+| 2 | **Black `#000000`** | Outlines on everything, plus the heaviest shapes. Never leaves. |
+| 3 | **ONE scene colour** | From the locked list. One per scene, never two. |
+| 4 | **Skin + cloth** | Real skin tones; up to 2 clothing colours on background characters. |
+| 5 | **Off-white `#F7F3E8`** | Optional. Paper, walls, shirts, screens — stops the frame going muddy. |
+
+**Hard cap: 6 colours on screen.** Count them in the prompt before you write it down.
+
+**The three legal yellow anchors — pick ONE per episode section, never switch mid-scene:**
+- **A — Yellow world:** yellow fills the background; the scene colour is the furniture, props, crowd.
+- **B — Yellow frame:** the scene has its own coloured environment; yellow is a hard strip top and bottom, or a border.
+- **C — Yellow hero object:** dark or scene-coloured world, one object blazing yellow — the phone, the lamp, the door, the sign.
+
+**Scene colours — locked shortlist, chosen by MOOD not realism:**
+
+| Name | Hex | Use for |
+|---|---|---|
+| Night teal | `#17494D` | night, bedroom, alone, 6 AM, insomnia |
+| Deep indigo | `#23305E` | dreams, spirals, the inside of his head |
+| Rust | `#C0451F` | heat, anger, an argument, a street at 2 PM, family fight |
+| Plum | `#5B2A4E` | embarrassment, shame, romance, the cringe memory |
+| Sarkari green | `#3F6B4F` | offices, waiting rooms, queues, anything institutional |
+| Chai brown | `#7A4B2A` | tea stalls, old furniture, the parents' house |
+
+**The depth rule — silhouettes moved to the back, they aren't dead:**
+- **Far layer** — flat black silhouettes, no fill
+- **Mid layer** — the scene colour, flat fill, black outline: props, furniture, background people
+- **Near layer** — the mascot, fully rendered, unchanged
+
+Never a frame that is *only* far layer. That's the monotone problem.
+
+**Never:**
+- **Never recolour the mascot.** He's the constant that lets the world change around him.
+- **Never two saturated brights.** Exactly one, and it's the yellow. If a scene colour competes at feed size, darken the scene colour — never shrink the yellow.
+- **Never a colour outside the list.**
+
+**Squint test:** shrink the frame to phone size and squint. You should see **three things** — a yellow shape, a dark mass, and his face. Five things = cut a colour. One thing = you're back to monotone.
 
 ---
 
@@ -60,12 +110,14 @@ Simulate movement using your editing software's zoom/pan:
 - **Zoom Out:** use to reveal a new environment or reset after a bit lands.
 
 ### 4. Background Swaps — change per chapter
-Each major section of the episode gets a different background/environment:
-- Cousin coffee scene → café interior, warm tones
-- Mom feedback → home living room, morning light
-- WFH/bathroom door → home office, laptop glow at night
-- Therapist scene → therapy room, neutral beige
-- YouTube rabbit hole → dark room, screen glow, slightly unsettling
+Each major section of the episode gets a different environment **and a different scene colour + yellow anchor**. This is where the colour system does its work — the chapter change should be visible before a word is heard.
+- Cousin coffee scene → café interior, **Chai brown**, anchor A (yellow world)
+- Mom feedback → home living room, **Chai brown** or **Rust**, anchor A
+- WFH/bathroom door → home office at night, **Night teal**, anchor C (laptop is the yellow hero object)
+- Therapist scene → therapy room, **Sarkari green**, anchor B (yellow strips top and bottom)
+- YouTube rabbit hole → dark room, **Deep indigo**, anchor C (screen glow is the yellow)
+
+State the scene colour and the anchor at the top of each chapter's scenes, then keep them consistent inside that chapter.
 
 ### 5. Silent Beat
 After a big punchline or awkward moment — hold the mascot on screen in silence for 2 full seconds. No text. No cut. Just the face.
@@ -142,9 +194,11 @@ Format each entry as:
 - **Image Prompt:** [copy-paste ready prompt for Midjourney / Firefly / DALL-E]
 
 Every image prompt MUST explicitly include all of the following — no exceptions:
-> `Resolution 1920x1080. Acid yellow background (#F2FF00). The mascot [expression] visible in frame. Bold black outlines, semi-flat 2D illustration style, Indian urban setting, NOT photorealistic, NOT 3D render.`
+> `Resolution 1920x1080. [Yellow anchor: either "Acid yellow (#F2FF00) background filling the frame" / "Acid yellow (#F2FF00) hard strips across the top and bottom of the frame" / "one object blazing acid yellow (#F2FF00)"]. Scene colour [NAME (#HEX)] on the mid-layer props, furniture and background people — flat fill, black outline. Far background as flat black silhouettes. The mascot [expression] fully rendered, visible in frame, colours unchanged. Bold black outlines, semi-flat 2D illustration style, Indian urban setting, NOT photorealistic, NOT 3D render. No more than 6 colours in the image.`
 
 For Shorts/Reels use `Resolution 1080x1920` instead.
+
+Under each prompt, write one line: **Colours: yellow + black + [scene colour] + [skin/cloth] (+ off-white) = N.** If N is over 6, cut before you hand it over.
 
 ### Step 3 — Chapter List
 List the episode chapters with suggested timestamps so Prateek can add YouTube chapters:
@@ -168,8 +222,10 @@ The thumbnail is not a summary of the episode — it's a trap only the episode c
 
 For each concept give: composition, mascot expression, exact text overlay, the question it plants in the viewer's head, and a copy-paste image prompt.
 
+**Thumbnails do NOT follow the scene-colour system.** Thumbnails stay black-dominant with acid yellow as ONE huge shape — that's what makes them readable in a feed. A scene colour may appear as a single accent, nothing more. The colour system is for what's *inside* the episode; the thumbnail is the door.
+
 **Thumbnail prompt skeleton:**
-> `Close-up of the mascot, completely deadpan expression, flat unbothered stare, face filling 30-40% of frame. [High-action scene happening around him — chaos, motion, things mid-flight]. Acid yellow background (#F2FF00). Bold black outlines, semi-flat 2D illustration style, high contrast, NOT photorealistic, NOT 3D render. Resolution 1280x720. Leave clear space at [position] for text overlay.`
+> `Close-up of the mascot, completely deadpan expression, flat unbothered stare, face filling 30-40% of frame. [High-action scene happening around him — chaos, motion, things mid-flight]. Black-dominant frame with acid yellow (#F2FF00) as one large shape. At most one accent colour. Bold black outlines, semi-flat 2D illustration style, high contrast, NOT photorealistic, NOT 3D render. Resolution 1280x720. Leave clear space at [position] for text overlay.`
 
 Text goes on as an overlay in Canva — never baked into the generated image.
 
@@ -178,6 +234,7 @@ Text goes on as an overlay in Canva — never baked into the generated image.
 ## Rules
 - Every 60-90 seconds must have a visual change — flag it if the script goes longer without one
 - **No dead frames:** max 2 consecutive scenes of the mascot alone on plain yellow with no props — quiet/sincere sections change framing (close-up, wide, off-center), not just expression
+- **Colour system enforced:** every scene names its yellow anchor and its scene colour; 6 colours max per frame with the count written under the prompt; the mascot is never recoloured; yellow is never the only colour in a frame
 - Silent beats: max 3 per episode
 - Cut-away gags: aim for 4-6 per episode, not more
 - Text overlays: use for punchlines and corrections only — not every line

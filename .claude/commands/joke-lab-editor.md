@@ -55,16 +55,48 @@ Stamps are **Canva text layers — never baked into the image prompts**. That's 
 
 ## Visual Style — locked, current spec
 
-Every image prompt follows the Option B style:
+**Acid yellow is the signature, not the wallpaper.** The all-yellow-plus-black-silhouettes frame is retired — it reads as one flat shape at phone size. Every frame keeps the yellow and adds one controlled colour. Full card: [prep/color_system.md](../../prep/color_system.md).
 
-- Solid acid yellow `#F2FF00` fills the ENTIRE frame — 70–80% coverage minimum, never just a panel
-- All environment/props are **flat black silhouettes, no fill, shapes only**
-- The mascot is the ONLY fully rendered element. Write **"The mascot"** — never spell out his physical description
+**The five slots — a frame is built from these and nothing else:**
+
+| Slot | What | Rule |
+|---|---|---|
+| 1 | **Acid yellow `#F2FF00`** | Mandatory. ~20% of the frame minimum. Always the brightest thing on screen. |
+| 2 | **Black `#000000`** | Outlines on everything, plus the heaviest shapes. |
+| 3 | **ONE scene colour** | From the list below. One per observation, never two in a frame. |
+| 4 | **Skin + cloth** | Real skin tones; up to 2 clothing colours on background characters. |
+| 5 | **Off-white `#F7F3E8`** | Optional. Paper, walls, shirts, screens. |
+
+**Hard cap: 6 colours on screen.**
+
+**Yellow anchors — pick ONE per observation, so the colour change *is* the section break:**
+- **A — Yellow world:** yellow fills the background; the scene colour is the props and the crowd
+- **B — Yellow frame:** the scene has its own coloured environment; yellow is a hard strip top and bottom
+- **C — Yellow hero object:** dark or scene-coloured world, one object blazing yellow
+
+**Scene colours — locked shortlist, picked by MOOD not realism:**
+
+| Name | Hex | Use for |
+|---|---|---|
+| Night teal | `#17494D` | night, bedroom, alone, 6 AM, insomnia |
+| Deep indigo | `#23305E` | dreams, spirals, the inside of his head |
+| Rust | `#C0451F` | heat, anger, an argument, a street at 2 PM, family fight |
+| Plum | `#5B2A4E` | embarrassment, shame, romance, the cringe memory |
+| Sarkari green | `#3F6B4F` | offices, waiting rooms, queues, anything institutional |
+| Chai brown | `#7A4B2A` | tea stalls, old furniture, the parents' house |
+
+**Depth rule:** far layer = flat black silhouettes (this is where the old spec survives) · mid layer = scene colour, flat fill, black outline · near layer = the mascot, fully rendered.
+
+**Still locked, unchanged:**
+- The mascot is the ONLY fully rendered element, and **his colours never change**. Write **"The mascot"** — never spell out his physical description
 - If a wall appears in a prompt, place the show's broken mirror logo on it
 - Resolution 1920x1080
+- Observation title cards stay solid `#F2FF00` + heavy black caps — no scene colour on text cards, they're the yellow beat between coloured sections
+
+**This is a free win for the lean format:** giving each observation its own scene colour means the 2–3 reused frames per observation look further apart than they are. The colour does the variation work that extra images used to.
 
 **Prompt skeleton — every image prompt uses this structure:**
-> "Solid acid yellow (#F2FF00) background filling entire frame. [Props] as flat black silhouettes, no fill, shapes only. The mascot [expression], [position] — fully rendered. Bold black outlines, semi-flat 2D illustration style, NOT photorealistic, NOT 3D render. Resolution 1920x1080."
+> "[Yellow anchor: "Solid acid yellow (#F2FF00) background filling the frame" / "Acid yellow (#F2FF00) hard strips across the top and bottom" / "one object blazing acid yellow (#F2FF00)"]. Mid-layer props and background people in [SCENE COLOUR NAME (#HEX)], flat fill, black outline. Far background as flat black silhouettes, no fill. The mascot [expression], [position] — fully rendered, colours unchanged. Bold black outlines, semi-flat 2D illustration style, NOT photorealistic, NOT 3D render. No more than 6 colours. Resolution 1920x1080."
 
 **Expression kit — keep to these three:**
 - **Deadpan** — observation reads, setups (default)
@@ -94,8 +126,10 @@ The thumbnail is the door; spend the image. But it's ONE concept — not a desig
 - **3–4 words max**, heavy black caps, censored (F**k), never repeating the title.
 - **Series mark:** a consistent "JOKE LAB" tag in the same corner every week — Friday recognition at a glance is the format's strategy.
 
+**Thumbnails are exempt from the scene-colour system** — they stay black-dominant with acid yellow as ONE huge shape, at most one accent colour. Colour variety belongs inside the episode; the thumbnail is the door.
+
 **Prompt skeleton:**
-> `Close-up of the mascot, completely deadpan expression, flat unbothered stare, face filling 30-40% of frame. [High-action scene as black silhouettes happening around him — chaos, motion, things mid-flight]. Solid acid yellow (#F2FF00) background. Bold black outlines, semi-flat 2D illustration style, high contrast, NOT photorealistic, NOT 3D render. Resolution 1280x720. Leave clear space at [position] for text overlay.`
+> `Close-up of the mascot, completely deadpan expression, flat unbothered stare, face filling 30-40% of frame. [High-action scene as black silhouettes happening around him — chaos, motion, things mid-flight]. Black-dominant frame with acid yellow (#F2FF00) as one large shape, at most one accent colour. Bold black outlines, semi-flat 2D illustration style, high contrast, NOT photorealistic, NOT 3D render. Resolution 1280x720. Leave clear space at [position] for text overlay.`
 
 Text and the JOKE LAB tag go on in Canva — never baked into the generated image.
 
@@ -112,6 +146,7 @@ Text and the JOKE LAB tag go on in Canva — never baked into the generated imag
    | 1 | 1A | Wide | JOKE 1/10 |
    | 2 | 1A | Close | JOKE 2/10 + "PAINTED GRASS" |
 
+3b. **Colour map** — one line per observation: `Observation 1 — scene colour Night teal (#17494D), anchor B`. Every image prompt in that observation must match its line.
 4. **Chapter list** — YouTube chapters with rough timestamps (0:00 intro, one per observation, didn't-make-the-cut)
 5. **Thumbnail** — one concept with its prompt, per the Thumbnail section
 6. **Asset recap** — total new images plus which fixed/reel assets get reused, so nothing gets generated twice

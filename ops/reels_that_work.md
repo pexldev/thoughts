@@ -96,6 +96,46 @@ From the 2026-07-05 analytics report — 40 uploads, 3,379 lifetime views:
 
 ---
 
+## 4b. Ledger — Aug 2026 results
+
+### Ep5 "The Room" reel — 14 Aug 2026 · **FAILED, and this one has data**
+
+| Surface | Result |
+|---|---|
+| YouTube Shorts | 6 views · 80% stayed to watch · 0:13 avg on a 0:26 short |
+| Instagram | **151 views · 1 like** (almost certainly a bot — 0 followers, 0 posts) |
+
+**The YouTube number is not a verdict** — 6 views is a non-event, nobody judged it, and the retention inside it was fine. **The Instagram number is the verdict.** 151 views is a real seed batch. It was distributed, seen, and converted nothing.
+
+**Pre-build VQ: 8/10** — with an honest **0/1 on Speed**, flagged at the time as "a resonance reel, not a run: one punch, at the end." The whole case for it rested on criterion 3, Identity ("this is so me").
+
+**What the failure teaches:** the identity bet did not fire. 151 people recognised themselves and not one saved or sent it.
+
+**Compare against what has actually travelled:**
+
+| Reel | Result | What it was |
+|---|---|---|
+| Both ep1 Joke Lab reels | 1,600+ views, ~27% share rate | Jokes. Real punchlines. |
+| karm karo fal ki chinta nhi (31 Jul) | 245 views | In-group — Hindi, Gita, cultural reference |
+| mere paas do shastra (7 Aug) | 38 views | In-group, Hindi |
+| **Ep5 The Room (14 Aug)** | **151 views, 0 real engagement** | Abstract, English, internal state, **no punchline** |
+
+**Working hypothesis — one data point, hold it loosely:** what travels for this channel is **a joke or a tribe**. The room reel was neither — it was a well-made sentence about a feeling. Nice sentences get nodded at, not sent.
+
+**Counter-test pending:** the ep5 basement reel (VQ 9/10 — real punchline, real designated recipient, repostable closer frame). If it also lands near 150 with nothing, the constraint is distribution and we stop blaming the writing. If it travels, the hypothesis above is confirmed.
+
+**Process note:** the 8/10 was shipped before the 9/10 on a sequencing call to avoid the two competing for the same test batch. That was the wrong order — ship the highest-scoring reel first, always. The lower-scored one is the thing that waits.
+
+### Ep5 long-form episode — 14 Aug 2026
+
+152 impressions · **1.3% CTR** · 2 views · impressions flatlined after ~2 hours.
+
+Diagnosed as a **packaging duplication**: the title ("The Worst Part Is Not Knowing") and the thumbnail ("NOBODY KNOWS WHAT THEY'RE DOING") said the same thing, so the door made no argument with itself and planted no question. Retitled to "My Best Friend Got the Girl. I Congratulated Them." — concrete and story-side, so it argues with the abstract thumbnail.
+
+**Caveat for reading this:** at 151 impressions, 1.3% CTR is *two clicks*. Too small to convict the thumbnail. And 151 impressions on an 8-minute video is roughly what long-form gets at this channel size regardless of quality — see section 4, Shorts are 91% of traffic. **The episode is the destination; the reel is the distribution.** Don't diagnose long-form packaging off a batch this small.
+
+---
+
 ## 5. The Virality Quotient scorecard
 
 Score a reel **before** making it. Answer honestly; the joke being funny is assumed — this measures whether it *travels*.

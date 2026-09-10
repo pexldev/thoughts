@@ -61,4 +61,31 @@
 - For my brain instagram is a comparision machine
 - When hobby starts paying rent it no more is fun - so buy a house before starting a hobby
 - specific truth is always funny than madeup stories
-- I dont tell my wife that im recording this podcast, she does not know anything about idk why either im ashamed of it or IDK what is it 
+- I dont tell my wife that im recording this podcast, she does not know anything about idk why either im ashamed of it or IDK what is it
+- The say gals like to talk a lot, but im a guy and like to talk a lot. But no one likes to talk to me i guess so i started this podcast - observation - breaking the cliche of gals liking to talk with guys liking to talk  
+- self doubt
+- being in meeting where im not required 
+- Why cant i quit my job ?
+- The old man on the park bench — pleasant, neither happy nor sad. I just want to sit with him and ask "uncle, how is it going" — what to care about and what not to care about. (Wednesday-shaped seed, logged 19 Jul)
+- My parents have never made any mistakes, it is always my mistake. You know this is one of the things that comes with self deprication kind of that you always accept your mistake and then people just convince you that you are always wrong even my wife does this 
+- caught doing something that im not supposed to do by my neighbor
+- My dad does not like me leaving home infront of him so he asks me to leave when he is not at home when he is left to office. Which is a monday and i usually come home on a friday i would like to leave on a sunday evening when the traffic is less but i have to leave on monday at 8am when there is peak traffic
+- Everyday i dont eat anything through out the day but at night im fucking eating an icecream every fucking day i gotta stop wtf is this behavior 
+- Hobby - this fucking thing started as a hobby now its sucking the soul out of me and its the grading myself against people that is doing this. I want to become good at it but i hate this part where i suck at it
+- Is doomscrolling a hobby if it is then i know a lot of people who can write it on their CV 
+- Life is unfair
+- There are things that effect me in life that has no loogic. I dont know how to explain them
+    - My wife if she is late I cant go to sleep
+    - When someone says even Im going through the same misery especially someone better than me like some kind of a celebrity i feel better why do i feel better over here ? I have no idea
+    - Why do i have a patriotism in me and why cant i just leave this country? and why does the filth, the infrastucture, the education problem, the corruption all of it hurt me so much personally when the easiest way to deal with it is to just stop thinking about it 
+    
+- **if you see something to be done you do it.***
+ Dont think what m i going to get for doing it. That is karm karo fal ki chinta mat karo. the problem with this country is they want fal and hence no one does picks up the trash. I wish i could just start picking up trash in 
+my own compound but i dont know i feel like its just a wasted effort --> i got carried away
+
+- What is the difference between a Dubai and Mumbai
+    The difference is Dubai is a curated experience they are putting up a front and Mumbai is the raw experience. its a secret that you try to explore. Every lane is a new secret in Mumbai and it is not uniform like in Dubai 
+
+- i love being home alone. No drama. 
+    People for sustained amount in your life = Drama
+- The air hostess giving the safety demo and nobody watching — she performs anyway. (7 Sep, 11pm. Prep: joke-lab/prep/nobody_watches_the_demo.md)
