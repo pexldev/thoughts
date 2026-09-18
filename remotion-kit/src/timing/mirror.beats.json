@@ -1,0 +1,106 @@
+[
+  {
+    "text": "There must've been a time when that attendant was learning the safety demo for the first time. And there's a lot to remember. Seatbelt.",
+    "startMs": 500,
+    "endMs": 7400,
+    "startFrame": 15,
+    "endFrame": 222,
+    "holdToFrame": 222
+  },
+  {
+    "text": "Oxygen mask.",
+    "startMs": 7400,
+    "endMs": 8150,
+    "startFrame": 222,
+    "endFrame": 245,
+    "holdToFrame": 245
+  },
+  {
+    "text": "Life vest.",
+    "startMs": 8150,
+    "endMs": 8770,
+    "startFrame": 245,
+    "endFrame": 263,
+    "holdToFrame": 263
+  },
+  {
+    "text": "Emergency exits.",
+    "startMs": 8770,
+    "endMs": 9700,
+    "startFrame": 263,
+    "endFrame": 291,
+    "holdToFrame": 291
+  },
+  {
+    "text": "The flight is basically an escape room.",
+    "startMs": 9700,
+    "endMs": 12300,
+    "startFrame": 291,
+    "endFrame": 369,
+    "holdToFrame": 369
+  },
+  {
+    "text": "She would've practiced the shit out of it.",
+    "startMs": 12300,
+    "endMs": 14900,
+    "startFrame": 369,
+    "endFrame": 447,
+    "holdToFrame": 447
+  },
+  {
+    "text": "Which means at some point, she was alone in her room… standing in front of a mirror… practising the safety demo.",
+    "startMs": 14900,
+    "endMs": 21500,
+    "startFrame": 447,
+    "endFrame": 645,
+    "holdToFrame": 645
+  },
+  {
+    "text": "And she must've been excited to perform for her first flight. She might've even fantasised—",
+    "startMs": 21500,
+    "endMs": 28700,
+    "startFrame": 645,
+    "endFrame": 861,
+    "holdToFrame": 876
+  },
+  {
+    "text": "I'll do it so well, the entire flight will give me a standing ovation.",
+    "startMs": 29200,
+    "endMs": 34100,
+    "startFrame": 876,
+    "endFrame": 1023,
+    "holdToFrame": 1023
+  },
+  {
+    "text": "And then she finally does it… and there's a baby crying in 14B…",
+    "startMs": 34100,
+    "endMs": 36900,
+    "startFrame": 1023,
+    "endFrame": 1107,
+    "holdToFrame": 1107
+  },
+  {
+    "text": "and the entire flight is hooked to the baby. She's performing in front of 180 people—and she's bombing.",
+    "startMs": 36900,
+    "endMs": 49800,
+    "startFrame": 1107,
+    "endFrame": 1494,
+    "holdToFrame": 1494
+  },
+  {
+    "text": "I come here every week and bomb.",
+    "startMs": 49800,
+    "endMs": 53500,
+    "startFrame": 1494,
+    "endFrame": 1605,
+    "holdToFrame": 1605
+  },
+  {
+    "text": "At least she has a baby crying in 14B. I'm competing with every baby on the internet.",
+    "startMs": 53500,
+    "endMs": 59920,
+    "startFrame": 1605,
+    "endFrame": 1798,
+    "holdToFrame": 1798
+  }
+]

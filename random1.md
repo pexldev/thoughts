@@ -246,8 +246,63 @@ And I wanted to scream
 I dont know what was happening to me 
 
 
-# No new feelings 2
+# what is being an Indian ?
 
-- Have you ever felt this   
+As a kid it was simple
+- knowing the National Anthem
+- Standing when the National Anthem was being played 
+- Supporting your national team in cricket
+
+That is it.
+
+
+As a kid it was about what it is that I have to do to be an Indian
+
+But then you dig into this Q of what it is to be an Indian
+
+It means 
+
+adjustment 
+
+Adjustment to noise
+Adjustment to filth 
+Adjustment even in the services that you pay
+
+Adjustment to air that you breathe
+Adjustment to water that you drink 
+Adjustment to the food that you eat
+
+It means 
+
+constant realization of your privilege
+
+privileged that you have food on your plate
+privileged that you have you have roof over your head
+privileged that you you have a bathroom in your house 
+
+It means 
+
+Capitalism exists in this country but so does caste capital
+Democracy exists in this country but so does corruption
+we are all equal before the law but not before god
+
+It also means
+
+- 22 official languages, 122 major languages and over 19000 mother tongues
+- over 30 different cusines with over 50 varieties of bread & a hundred variety of desserts 
+- 6 major religions, celibrating over 30 festivals with 100 different clothing styles accross the country
+
+It means 
+
+to grow up with a sense of community
+to always be kids for your parents
+unity in diversity 
+
+Unity in Diversity is a challenge
+But this country is able to stand as one despite
+
+
+
+
 
 

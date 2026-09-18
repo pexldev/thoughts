@@ -8,6 +8,7 @@ import { Reel2, REEL2_DURATION } from "./Reel2";
 import { Reel2Images, REEL2_IMAGES_DURATION } from "./Reel2Images";
 import { Reel2Layers, REEL2_LAYERS_DURATION } from "./Reel2Layers";
 import { Reel2Puppet, REEL2_PUPPET_DURATION } from "./Reel2Puppet";
+import { MirrorReel, MIRROR_DURATION } from "./MirrorReel";
 import { Corp1, CORP1_DURATION } from "./Corp1";
 import { Corp2, CORP2_DURATION } from "./Corp2";
 import { LipSyncTest, LIPSYNC_DURATION } from "./LipSyncTest";
@@ -18,6 +19,9 @@ import corpepWords from "./timing/corpep.words.json";
 import corpepPunch from "./timing/corpep.punch.json";
 import corpepCaptions from "./timing/corpep.captions.json";
 import corpepPages from "./timing/corpep.pages.json";
+import cabincrewChapters from "./timing/cabincrew.chapters.json";
+import cabincrewCaptions from "./timing/cabincrew.captions.json";
+import cabincrewPages from "./timing/cabincrew.pages.json";
 
 
 /** Look test for long-form. Real chapters come from align-chapters.mjs. */
@@ -61,6 +65,24 @@ const CORPORATE_PLATES = [
 ] as const;
 
 const CORPORATE = corpepChapters.map((c, i) => ({ ...c, ...CORPORATE_PLATES[i] }));
+
+/**
+ * CABIN CREW — Joke Lab observation, one image per chapter, no baked chapter
+ * titles (unlike CORPORATE): these plates were generated as scene art only, so
+ * chapter.title here is metadata for the aligner and the report tables, never
+ * anything read back off the artwork.
+ */
+const CABINCREW_PLATES = [
+  { img: "images/cabincrew/ch1_hook.png", scene: "sarkariGreen" },
+  { img: "images/cabincrew/ch2_whistle.png", scene: "nightTeal" },
+  { img: "images/cabincrew/ch3_styles.png", scene: "rust" },
+  { img: "images/cabincrew/ch4_ai.png", scene: "rust" },
+  { img: "images/cabincrew/ch5_viva.png", scene: "rust" },
+  { img: "images/cabincrew/ch6_mirror.png", scene: "plum" },
+  { img: "images/cabincrew/ch7_bombing.png", scene: "plum" },
+] as const;
+
+const CABINCREW = cabincrewChapters.map((c, i) => ({ ...c, ...CABINCREW_PLATES[i] }));
 
 const vertical = { width: REEL.width, height: REEL.height, fps: REEL.fps } as const;
 
@@ -106,6 +128,11 @@ export const RemotionRoot: React.FC = () => (
 
     {/* Layered: plate and character on separate planes, real parallax. */}
     <Composition id="Reel2Layers" component={Reel2Layers} durationInFrames={REEL2_LAYERS_DURATION} {...vertical} />
+
+    {/* Joke Lab, "She Practised In A Mirror" — the cabin-crew emotional reel.
+        HERO yellow anchor (dark plum world, one yellow object), no baked text
+        of any kind. joke-lab/ep01_reel_mirror_images.md. */}
+    <Composition id="MirrorReel" component={MirrorReel} durationInFrames={MIRROR_DURATION} {...vertical} />
 
     {/* PARKED 22 Aug 2026 — rejected on sight. The puppet standing on the
         plates instead of the character baked into each scene image.
@@ -169,6 +196,24 @@ export const RemotionRoot: React.FC = () => (
       height={1080}
       fps={30}
       defaultProps={{ audio: "", chapters: SAMPLE_CHAPTERS as any, closingImg: "images/corpep/cta.png" }}
+    />
+
+    {/* CABIN CREW — Joke Lab episode, ART/TEXT pages, no baked chapter titles. */}
+    <Composition
+      id="CabinCrewEpisode"
+      component={Episode}
+      durationInFrames={episodeDuration(CABINCREW as any)}
+      width={1920}
+      height={1080}
+      fps={30}
+      defaultProps={{
+        audio: "audio/cabincrew.wav",
+        chapters: CABINCREW as any,
+        captions: cabincrewCaptions as any,
+        pages: (cabincrewPages as any).beats,
+        phraseWords: (cabincrewPages as any).phraseWords,
+        closingImg: "images/fixed/sermon_end_card.png",
+      }}
     />
 
     {/* Look test end to end. */}

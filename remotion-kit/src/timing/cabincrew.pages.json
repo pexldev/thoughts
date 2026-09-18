@@ -1,0 +1,279 @@
+{
+  "tempo": "measured",
+  "phraseWords": 4,
+  "beats": [
+    {
+      "kind": "art",
+      "chapter": 0,
+      "startFrame": 0,
+      "endFrame": 840,
+      "shot": 0
+    },
+    {
+      "kind": "art",
+      "chapter": 1,
+      "startFrame": 840,
+      "endFrame": 1192,
+      "shot": 1
+    },
+    {
+      "kind": "text",
+      "chapter": 1,
+      "startFrame": 1192,
+      "endFrame": 1229,
+      "sentences": [
+        {
+          "from": 106,
+          "to": 108,
+          "startFrame": 1192,
+          "endFrame": 1207,
+          "emphasis": true
+        },
+        {
+          "from": 108,
+          "to": 110,
+          "startFrame": 1207,
+          "endFrame": 1222,
+          "emphasis": true
+        }
+      ]
+    },
+    {
+      "kind": "art",
+      "chapter": 2,
+      "startFrame": 1229,
+      "endFrame": 1566,
+      "shot": 2
+    },
+    {
+      "kind": "text",
+      "chapter": 2,
+      "startFrame": 1566,
+      "endFrame": 1609,
+      "sentences": [
+        {
+          "from": 142,
+          "to": 146,
+          "startFrame": 1573,
+          "endFrame": 1609,
+          "emphasis": true
+        }
+      ]
+    },
+    {
+      "kind": "art",
+      "chapter": 2,
+      "startFrame": 1609,
+      "endFrame": 1805,
+      "shot": 3
+    },
+    {
+      "kind": "text",
+      "chapter": 2,
+      "startFrame": 1805,
+      "endFrame": 1880,
+      "sentences": [
+        {
+          "from": 165,
+          "to": 166,
+          "startFrame": 1805,
+          "endFrame": 1815,
+          "emphasis": true
+        },
+        {
+          "from": 166,
+          "to": 167,
+          "startFrame": 1825,
+          "endFrame": 1846,
+          "emphasis": true
+        },
+        {
+          "from": 167,
+          "to": 168,
+          "startFrame": 1846,
+          "endFrame": 1880,
+          "emphasis": true
+        }
+      ]
+    },
+    {
+      "kind": "art",
+      "chapter": 2,
+      "startFrame": 1880,
+      "endFrame": 2349,
+      "shot": 4
+    },
+    {
+      "kind": "art",
+      "chapter": 3,
+      "startFrame": 2349,
+      "endFrame": 2710,
+      "shot": 5
+    },
+    {
+      "kind": "art",
+      "chapter": 4,
+      "startFrame": 2710,
+      "endFrame": 3298,
+      "shot": 6
+    },
+    {
+      "kind": "text",
+      "chapter": 4,
+      "startFrame": 3298,
+      "endFrame": 3400,
+      "sentences": [
+        {
+          "from": 277,
+          "to": 278,
+          "startFrame": 3323,
+          "endFrame": 3343,
+          "emphasis": true
+        },
+        {
+          "from": 278,
+          "to": 282,
+          "startFrame": 3358,
+          "endFrame": 3376,
+          "emphasis": true
+        },
+        {
+          "from": 282,
+          "to": 283,
+          "startFrame": 3390,
+          "endFrame": 3400,
+          "emphasis": true
+        }
+      ]
+    },
+    {
+      "kind": "art",
+      "chapter": 4,
+      "startFrame": 3400,
+      "endFrame": 3464,
+      "shot": 7
+    },
+    {
+      "kind": "text",
+      "chapter": 4,
+      "startFrame": 3464,
+      "endFrame": 3563,
+      "sentences": [
+        {
+          "from": 290,
+          "to": 291,
+          "startFrame": 3482,
+          "endFrame": 3499,
+          "emphasis": true
+        },
+        {
+          "from": 291,
+          "to": 295,
+          "startFrame": 3500,
+          "endFrame": 3531,
+          "emphasis": true
+        },
+        {
+          "from": 295,
+          "to": 296,
+          "startFrame": 3548,
+          "endFrame": 3563,
+          "emphasis": true
+        }
+      ]
+    },
+    {
+      "kind": "art",
+      "chapter": 4,
+      "startFrame": 3563,
+      "endFrame": 3750,
+      "shot": 8
+    },
+    {
+      "kind": "art",
+      "chapter": 5,
+      "startFrame": 3750,
+      "endFrame": 4041,
+      "shot": 9
+    },
+    {
+      "kind": "text",
+      "chapter": 5,
+      "startFrame": 4041,
+      "endFrame": 4155,
+      "sentences": [
+        {
+          "from": 339,
+          "to": 340,
+          "startFrame": 4041,
+          "endFrame": 4050,
+          "emphasis": true
+        },
+        {
+          "from": 340,
+          "to": 342,
+          "startFrame": 4067,
+          "endFrame": 4096,
+          "emphasis": true
+        },
+        {
+          "from": 342,
+          "to": 344,
+          "startFrame": 4096,
+          "endFrame": 4122,
+          "emphasis": true
+        },
+        {
+          "from": 344,
+          "to": 346,
+          "startFrame": 4122,
+          "endFrame": 4155,
+          "emphasis": true
+        }
+      ]
+    },
+    {
+      "kind": "art",
+      "chapter": 5,
+      "startFrame": 4155,
+      "endFrame": 4309,
+      "shot": 10
+    },
+    {
+      "kind": "art",
+      "chapter": 6,
+      "startFrame": 4309,
+      "endFrame": 4429,
+      "shot": 11
+    },
+    {
+      "kind": "text",
+      "chapter": 6,
+      "startFrame": 4429,
+      "endFrame": 4829,
+      "sentences": [
+        {
+          "from": 395,
+          "to": 399,
+          "startFrame": 4750,
+          "endFrame": 4829,
+          "emphasis": true
+        }
+      ]
+    },
+    {
+      "kind": "art",
+      "chapter": 6,
+      "startFrame": 4829,
+      "endFrame": 5588,
+      "shot": 12
+    },
+    {
+      "kind": "art",
+      "chapter": 6,
+      "startFrame": 5588,
+      "endFrame": 5929,
+      "shot": 13
+    }
+  ]
+}

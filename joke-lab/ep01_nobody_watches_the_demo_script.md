@@ -1,141 +1,111 @@
-# EP 01 — NOBODY WATCHES THE DEMO
-**Running order · assembled 10 Sep 2026 · records tonight**
 
-> **EVERY SPOKEN LINE BELOW IS HIS,** pulled from `prep/nobody_watches_the_demo.md`. Typos fixed for read-aloud, nothing rewritten. What's mine is the **order**, the **cuts**, and the empty slots.
->
-> **THE BLANKS ARE YOURS.** Bridges are one breath, in your own mouth-words. Asides are 1–2 seconds, thrown away, not performed. Don't plan to find them at the mic — that's what made ep1 record flat.
 
-**Target: ~5 minutes.** Short and tight beats padded. First laugh must land before 0:22.
+Recently i was flying to kochi 
+And like everytime the cabin crew was performing the safety demo 
+and like everytime no one was paying attention to them
 
----
+But, I pay attention to them everytime
 
-## 🚪 THE DOOR — 0:00–0:25
+Now it's not because I'm a pervert — it's because if you actually pay attention, the safety demo is different every single time.
 
-*Open ON her. She stands up in the aisle. No Kochi, no "I noticed one thing," no throat-clearing.*
+There are airlines that have a light on the life vest.
+There are airlines whose oxygen masks actually look like they work.
+Then there are airlines that have a whistle on the life vest.
+Who am I supposed to whistle when the plane crashes in the middle of the ocean? A shark? A dolphin?
 
-> The safety drill that these air hostesses do — why does no one ever pay attention to it?
 
-> For the first couple of times, even I did not pay attention. Now I pay full attention to the safety drill.
+Even the cabin crew have different styles.
 
-*(Five lines cut here — "I'm going to be honest", "don't ask me why", "I just like to observe". One line of backstory is credibility; six is a wind-up.)*
+- Some are new — so they're really passionate about the demo.
+- Some are doing it for the 100th time. They know no one gives a fuck. So even they don't. 
+- And then once I saw an attendant actually stop the demo and snap at some twenty-year-old on his phone—
+“Sir. Sir. SIR. You need to pay attention. Put your phone on flight mode.”
 
-**⚡ FIRST LAUGH — this has to land by 0:22:**
+I've been flying since the time when attendants actually made the safety demo announcements themselves on the microphone.
+Now it's just the same recorded voice on every flight.
 
-> Every airline has their own style. Every cabin crew has their own style. And every air hostess, depending on her mood, has her own style.
+I think in few years they would outsource the demo to some AI
 
-`[ASIDE — yours]`
+Just ChatGPT saying, 
 
----
+“In the unlikely event of an emergency, please ensure your own safety before assisting others…
 
-## ✈️ THE MIDDLE
+including your children."
 
-### Run 1 — the equipment
+I always prefer the emergency exit seats.
 
-`[BRIDGE — one breath, yours]`
+And emergency exit briefing is like viva 
 
-> The seatbelt. Which is the belt they use on the electrocution chair.
+The attendant came to me and  said
+“Sir, in case of an emergency, are you willing and able to open this door?”
 
-`[ASIDE — yours. This is the riskiest line in the set; it wants one.]`
+“Yes.”
 
-> The oxygen mask. I always think it is not going to work — there is no supply, there is no tank.
+Guy next to me—
 
-> The life vest. Some airlines even have a light on it. A jugnu.
+“Yes.”
 
-`[ASIDE — yours]`
+“Do you want me to repeat anything?”
 
-*(Cut: bulletproof jacket · boat ride in Vietnam · motorbike jacket · waist belt · car seatbelt · nebuliser · toy · gas mask. All comparisons, no break.)*
+“No.”
 
-### Run 2 — the languages
+Guy next to me—
 
-`[BRIDGE — yours]`
+“No.”
 
-> And in countries like India they explain it in two or three different languages.
+Brother did not hear a word.
+He is just copying my answers 
 
-> It's like when they say *Marathi ke liye 1 dabaye, Malayalam ke liye 2 dabaye* — and you're just waiting for when English is going to come so you can press that number.
 
-`[ASIDE — yours]`
+But sometimes I think about the cabin crew.
 
-*(Cut: spam emails · Truecaller. Generic — they don't beat the IVR line.)*
+There must've been a time when that attendant was learning the safety demo for the first time.
 
-### Run 3 — the exit row ⭐ THE STRONGEST CLUSTER
-*Three sizes of saying yes without hearing the question. Ordered smallest to closest to home — do not re-order.*
+And there's a lot to remember.
 
-`[BRIDGE — yours]`
+Seatbelt. Oxygen mask. Life vest. Emergency exits.
 
-> Even for the emergency exit explanation, nobody pays attention. They just say yes for the sake of it.
+The flight is basically an escape room.
 
-> It's like during orals, when they ask you the answer and you say "same as what the person sitting in front said."
+She would've  practiced the shit out of it .
 
-> It's the customer care feedback. You just press 1. You give 5 stars.
+Which means at some point, she was alone in her room…
 
-> It's what you do when your mom asks *khana khaya kya.* You say yes anyway.
+standing in front of a mirror…
 
-`[ASIDE — yours]`
+practising the safety demo.
 
----
+And she must've been excited to perform for her first flight.
 
-## 🔄 THE PIVOT — from the cabin to her
 
-`[BRIDGE — yours]`
+She might've even fantasised—
 
-> And the most important line — *"before saving others, make sure you are safe."*
+“I'll do it so well, the entire flight will give me a standing ovation.”
 
-*(⚠️ Still the highest-value unmined thing in the file. It's the airline handing YOU advice about your own situation, in their words, for free. If one new line gets written today, write it here.)*
+And then she finally does it…
 
-> For the first few times, even the cabin crew must have taken it seriously.
+and there's a baby crying in 14B…
 
-> I'm pretty sure they must have practiced it in front of the mirror.
+and the entire flight is hooked to the baby 
 
-`[ASIDE — yours]`
+She’s performing in front of 180 people—and she’s bombing.
+I come here every week and bomb too.
+At least she has a baby crying in 14B.
+I’m competing with every baby on the internet.
 
-### HER LINE — in her mouth, not described
-*Your paragraph, compressed. Two lines max. The corporate clause is cut — corporate is a landing, never a middle (locked 8 Sep).*
 
-> The first few times: *"I'm going to do this so well that everyone is going to be impressed. They're going to clap."*
-> After ten times: *"Nobody cares. Let's just get this over with."*
 
----
 
-## 🎤 THE ROOM — the last thirty seconds
 
-**The hinge. Say it and move — don't explain it, don't tag it.**
 
-> They are performing the drill to fifty people, and they are essentially bombing.
 
-`[BEAT]`
 
-> I bomb every week. I've been doing it week after week after week here.
 
-> For me a video performing is very simple — just get more than 24 views. That's it. I don't even get 1 view.
 
-**THE CLOSE — cold version. Last line of the episode.**
 
-> She does all of this because it's her job and the rules require it. Ninety-nine percent of them don't even like doing it. They would rather an AI agent do it for them.
->
-> I would like to do this myself for the rest of my life.
 
-**STOP THERE.**
 
-*(Cut: "It's just that no one wants to watch me." The whole episode has already established it — saying it out loud explains your own joke, and it flips the volunteer back into a victim in six words. End on the AI.)*
 
----
 
-## ✂️ CUT LIST — not lost, just not in this episode
 
-**Apologies — cut permanently:**
-- *"Anyways lets not digress"*
-- *"Anyways, I had this thought, so I thought I will put it out there"*
-- *"Take care, bye"* — not your outro
-
-**Parked as its own bit — do not lose:**
-- *"We have literally reduced them to a hostess, when the fact is they are trained to save our lives."* Same thesis, different episode. It would eat this one.
-
----
-
-## BEFORE YOU RECORD — 4 checks
-
-- [ ] **Asides written in.** Five slots above. Blank slots record flat.
-- [ ] **Read aloud against a timer.** Every sentence you stumble on is badly written, not badly read.
-- [ ] **"I" appears only in the last thirty seconds.** The cabin is not about you.
-- [ ] **The close ends on the AI line.** Nothing after it.
 

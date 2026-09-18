@@ -139,8 +139,8 @@ Below 8 you cannot separate format from topic — that's exactly what happened w
 
 | # | Episode | Date | ✓ |
 |---|---|---|---|
-| 1 | nobody watches the demo | 9 Sep | |
-| 2 | be a man | 11 Sep | |
+| 1 | nobody watches the demo | **17 Sep** | ✅ |
+| 2 | be a man | | |
 | 3 | | | |
 | 4 | | | |
 | 5 | | | |

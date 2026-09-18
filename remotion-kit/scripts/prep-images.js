@@ -84,6 +84,19 @@ const MAPS = {
     "84cbb34b-4abc-4299-a9d9-4cd235782737": "f_phone",
     "a122f2fb-f929-42dc-acdf-72a00e80d5fc": "g_ringlight",
   },
+  // Joke Lab, "She Practised In A Mirror" — the cabin-crew emotional reel.
+  // No baked text/stamps in any of these plates (joke-lab/ep01_reel_mirror_images.md).
+  mirror: {
+    "e764aa99-4eff-4804-853a-0afc164d6118": "r1_seatbelt",
+    "6959f203-22d8-45f5-884c-3cfc169e781d": "r2_oxygenmask",
+    "d3fc7c8c-429f-4ea5-9725-038bea3f76a5": "r3_lifevest",
+    "e02bff4e-b285-4473-83bc-083f1bdbbe9e": "r4_exits",
+    "1b9ed201-477a-4cdc-bb3e-6bf2a9343cf8": "r5_escaperoom",
+    "2e8ce8e3-1dc8-41e6-ac6a-aad85401804b": "r6_mirror",
+    "04f91749-cddf-46a1-b4e1-d4cd128d3ebb": "r7_ovation",
+    "22866812-3abd-41e6-96de-e2d3e6588983": "r8_baby14b",
+    "26ece499-04e6-46c3-95ef-7e9668a25d0d": "r9_babyscreens",
+  },
 };
 
 const MAP = MAPS[reelName];

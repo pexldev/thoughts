@@ -1,0 +1,938 @@
+[
+  {
+    "text": "There",
+    "beat": 0,
+    "startFrame": 15,
+    "endFrame": 18
+  },
+  {
+    "text": "must",
+    "beat": 0,
+    "startFrame": 18,
+    "endFrame": 19
+  },
+  {
+    "text": "have",
+    "beat": 0,
+    "startFrame": 19,
+    "endFrame": 27
+  },
+  {
+    "text": "been",
+    "beat": 0,
+    "startFrame": 27,
+    "endFrame": 35
+  },
+  {
+    "text": "a",
+    "beat": 0,
+    "startFrame": 35,
+    "endFrame": 38
+  },
+  {
+    "text": "time",
+    "beat": 0,
+    "startFrame": 38,
+    "endFrame": 45
+  },
+  {
+    "text": "when",
+    "beat": 0,
+    "startFrame": 45,
+    "endFrame": 49
+  },
+  {
+    "text": "that",
+    "beat": 0,
+    "startFrame": 49,
+    "endFrame": 52
+  },
+  {
+    "text": "attendant",
+    "beat": 0,
+    "startFrame": 52,
+    "endFrame": 63
+  },
+  {
+    "text": "was",
+    "beat": 0,
+    "startFrame": 63,
+    "endFrame": 69
+  },
+  {
+    "text": "learning",
+    "beat": 0,
+    "startFrame": 69,
+    "endFrame": 81
+  },
+  {
+    "text": "the",
+    "beat": 0,
+    "startFrame": 81,
+    "endFrame": 83
+  },
+  {
+    "text": "safety",
+    "beat": 0,
+    "startFrame": 83,
+    "endFrame": 95
+  },
+  {
+    "text": "demo",
+    "beat": 0,
+    "startFrame": 95,
+    "endFrame": 101
+  },
+  {
+    "text": "for",
+    "beat": 0,
+    "startFrame": 101,
+    "endFrame": 106
+  },
+  {
+    "text": "the",
+    "beat": 0,
+    "startFrame": 106,
+    "endFrame": 112
+  },
+  {
+    "text": "first",
+    "beat": 0,
+    "startFrame": 112,
+    "endFrame": 121
+  },
+  {
+    "text": "time.",
+    "beat": 0,
+    "startFrame": 121,
+    "endFrame": 132
+  },
+  {
+    "text": "There's",
+    "beat": 0,
+    "startFrame": 132,
+    "endFrame": 147
+  },
+  {
+    "text": "a",
+    "beat": 0,
+    "startFrame": 147,
+    "endFrame": 154
+  },
+  {
+    "text": "lot",
+    "beat": 0,
+    "startFrame": 154,
+    "endFrame": 156
+  },
+  {
+    "text": "to",
+    "beat": 0,
+    "startFrame": 156,
+    "endFrame": 161
+  },
+  {
+    "text": "remember.",
+    "beat": 0,
+    "startFrame": 161,
+    "endFrame": 186
+  },
+  {
+    "text": "Seat",
+    "beat": 0,
+    "startFrame": 186,
+    "endFrame": 207
+  },
+  {
+    "text": "belt,",
+    "beat": 0,
+    "startFrame": 207,
+    "endFrame": 222
+  },
+  {
+    "text": "oxygen",
+    "beat": 1,
+    "startFrame": 222,
+    "endFrame": 233
+  },
+  {
+    "text": "mask,",
+    "beat": 1,
+    "startFrame": 233,
+    "endFrame": 245
+  },
+  {
+    "text": "life",
+    "beat": 2,
+    "startFrame": 245,
+    "endFrame": 252
+  },
+  {
+    "text": "vest,",
+    "beat": 2,
+    "startFrame": 252,
+    "endFrame": 263
+  },
+  {
+    "text": "emergency",
+    "beat": 3,
+    "startFrame": 263,
+    "endFrame": 280
+  },
+  {
+    "text": "exits.",
+    "beat": 3,
+    "startFrame": 280,
+    "endFrame": 291
+  },
+  {
+    "text": "The",
+    "beat": 4,
+    "startFrame": 291,
+    "endFrame": 310
+  },
+  {
+    "text": "flight",
+    "beat": 4,
+    "startFrame": 310,
+    "endFrame": 314
+  },
+  {
+    "text": "is",
+    "beat": 4,
+    "startFrame": 314,
+    "endFrame": 317
+  },
+  {
+    "text": "basically",
+    "beat": 4,
+    "startFrame": 317,
+    "endFrame": 339
+  },
+  {
+    "text": "an",
+    "beat": 4,
+    "startFrame": 339,
+    "endFrame": 350
+  },
+  {
+    "text": "escape",
+    "beat": 4,
+    "startFrame": 350,
+    "endFrame": 359
+  },
+  {
+    "text": "room.",
+    "beat": 4,
+    "startFrame": 359,
+    "endFrame": 369
+  },
+  {
+    "text": "She",
+    "beat": 5,
+    "startFrame": 369,
+    "endFrame": 377
+  },
+  {
+    "text": "would",
+    "beat": 5,
+    "startFrame": 377,
+    "endFrame": 385
+  },
+  {
+    "text": "have",
+    "beat": 5,
+    "startFrame": 385,
+    "endFrame": 401
+  },
+  {
+    "text": "practiced",
+    "beat": 5,
+    "startFrame": 401,
+    "endFrame": 416
+  },
+  {
+    "text": "the",
+    "beat": 5,
+    "startFrame": 416,
+    "endFrame": 420
+  },
+  {
+    "text": "shit",
+    "beat": 5,
+    "startFrame": 420,
+    "endFrame": 428
+  },
+  {
+    "text": "out",
+    "beat": 5,
+    "startFrame": 428,
+    "endFrame": 434
+  },
+  {
+    "text": "of",
+    "beat": 5,
+    "startFrame": 434,
+    "endFrame": 439
+  },
+  {
+    "text": "it.",
+    "beat": 5,
+    "startFrame": 439,
+    "endFrame": 447
+  },
+  {
+    "text": "Which",
+    "beat": 6,
+    "startFrame": 447,
+    "endFrame": 464
+  },
+  {
+    "text": "means,",
+    "beat": 6,
+    "startFrame": 464,
+    "endFrame": 481
+  },
+  {
+    "text": "at",
+    "beat": 6,
+    "startFrame": 481,
+    "endFrame": 485
+  },
+  {
+    "text": "some",
+    "beat": 6,
+    "startFrame": 485,
+    "endFrame": 495
+  },
+  {
+    "text": "point,",
+    "beat": 6,
+    "startFrame": 495,
+    "endFrame": 514
+  },
+  {
+    "text": "she",
+    "beat": 6,
+    "startFrame": 514,
+    "endFrame": 517
+  },
+  {
+    "text": "was",
+    "beat": 6,
+    "startFrame": 517,
+    "endFrame": 523
+  },
+  {
+    "text": "alone",
+    "beat": 6,
+    "startFrame": 523,
+    "endFrame": 533
+  },
+  {
+    "text": "in",
+    "beat": 6,
+    "startFrame": 533,
+    "endFrame": 537
+  },
+  {
+    "text": "her",
+    "beat": 6,
+    "startFrame": 537,
+    "endFrame": 543
+  },
+  {
+    "text": "room,",
+    "beat": 6,
+    "startFrame": 543,
+    "endFrame": 561
+  },
+  {
+    "text": "standing",
+    "beat": 6,
+    "startFrame": 561,
+    "endFrame": 569
+  },
+  {
+    "text": "in",
+    "beat": 6,
+    "startFrame": 569,
+    "endFrame": 574
+  },
+  {
+    "text": "front",
+    "beat": 6,
+    "startFrame": 574,
+    "endFrame": 581
+  },
+  {
+    "text": "of",
+    "beat": 6,
+    "startFrame": 581,
+    "endFrame": 584
+  },
+  {
+    "text": "a",
+    "beat": 6,
+    "startFrame": 584,
+    "endFrame": 586
+  },
+  {
+    "text": "mirror,",
+    "beat": 6,
+    "startFrame": 586,
+    "endFrame": 604
+  },
+  {
+    "text": "practicing",
+    "beat": 6,
+    "startFrame": 604,
+    "endFrame": 620
+  },
+  {
+    "text": "the",
+    "beat": 6,
+    "startFrame": 620,
+    "endFrame": 625
+  },
+  {
+    "text": "safety",
+    "beat": 6,
+    "startFrame": 625,
+    "endFrame": 637
+  },
+  {
+    "text": "demo.",
+    "beat": 6,
+    "startFrame": 637,
+    "endFrame": 645
+  },
+  {
+    "text": "And",
+    "beat": 7,
+    "startFrame": 645,
+    "endFrame": 652
+  },
+  {
+    "text": "she",
+    "beat": 7,
+    "startFrame": 652,
+    "endFrame": 664
+  },
+  {
+    "text": "must",
+    "beat": 7,
+    "startFrame": 664,
+    "endFrame": 670
+  },
+  {
+    "text": "have",
+    "beat": 7,
+    "startFrame": 670,
+    "endFrame": 681
+  },
+  {
+    "text": "been",
+    "beat": 7,
+    "startFrame": 681,
+    "endFrame": 689
+  },
+  {
+    "text": "excited",
+    "beat": 7,
+    "startFrame": 689,
+    "endFrame": 707
+  },
+  {
+    "text": "to",
+    "beat": 7,
+    "startFrame": 707,
+    "endFrame": 711
+  },
+  {
+    "text": "perform",
+    "beat": 7,
+    "startFrame": 711,
+    "endFrame": 729
+  },
+  {
+    "text": "on",
+    "beat": 7,
+    "startFrame": 729,
+    "endFrame": 739
+  },
+  {
+    "text": "her",
+    "beat": 7,
+    "startFrame": 739,
+    "endFrame": 741
+  },
+  {
+    "text": "first",
+    "beat": 7,
+    "startFrame": 741,
+    "endFrame": 753
+  },
+  {
+    "text": "flight.",
+    "beat": 7,
+    "startFrame": 753,
+    "endFrame": 777
+  },
+  {
+    "text": "She",
+    "beat": 7,
+    "startFrame": 777,
+    "endFrame": 791
+  },
+  {
+    "text": "might",
+    "beat": 7,
+    "startFrame": 791,
+    "endFrame": 812
+  },
+  {
+    "text": "have",
+    "beat": 7,
+    "startFrame": 812,
+    "endFrame": 816
+  },
+  {
+    "text": "even",
+    "beat": 7,
+    "startFrame": 816,
+    "endFrame": 828
+  },
+  {
+    "text": "fantasized.",
+    "beat": 7,
+    "startFrame": 828,
+    "endFrame": 861
+  },
+  {
+    "text": "\"I'll",
+    "beat": 8,
+    "startFrame": 876,
+    "endFrame": 887
+  },
+  {
+    "text": "do",
+    "beat": 8,
+    "startFrame": 887,
+    "endFrame": 891
+  },
+  {
+    "text": "it",
+    "beat": 8,
+    "startFrame": 891,
+    "endFrame": 899
+  },
+  {
+    "text": "so",
+    "beat": 8,
+    "startFrame": 899,
+    "endFrame": 900
+  },
+  {
+    "text": "well",
+    "beat": 8,
+    "startFrame": 900,
+    "endFrame": 909
+  },
+  {
+    "text": "that",
+    "beat": 8,
+    "startFrame": 909,
+    "endFrame": 925
+  },
+  {
+    "text": "the",
+    "beat": 8,
+    "startFrame": 925,
+    "endFrame": 927
+  },
+  {
+    "text": "entire",
+    "beat": 8,
+    "startFrame": 927,
+    "endFrame": 938
+  },
+  {
+    "text": "flight",
+    "beat": 8,
+    "startFrame": 938,
+    "endFrame": 952
+  },
+  {
+    "text": "will",
+    "beat": 8,
+    "startFrame": 952,
+    "endFrame": 961
+  },
+  {
+    "text": "give",
+    "beat": 8,
+    "startFrame": 961,
+    "endFrame": 971
+  },
+  {
+    "text": "me",
+    "beat": 8,
+    "startFrame": 971,
+    "endFrame": 976
+  },
+  {
+    "text": "a",
+    "beat": 8,
+    "startFrame": 976,
+    "endFrame": 979
+  },
+  {
+    "text": "standing",
+    "beat": 8,
+    "startFrame": 979,
+    "endFrame": 995
+  },
+  {
+    "text": "ovation.\"",
+    "beat": 8,
+    "startFrame": 995,
+    "endFrame": 1023
+  },
+  {
+    "text": "And",
+    "beat": 9,
+    "startFrame": 1023,
+    "endFrame": 1024
+  },
+  {
+    "text": "then,",
+    "beat": 9,
+    "startFrame": 1024,
+    "endFrame": 1054
+  },
+  {
+    "text": "she",
+    "beat": 9,
+    "startFrame": 1054,
+    "endFrame": 1059
+  },
+  {
+    "text": "finally",
+    "beat": 9,
+    "startFrame": 1059,
+    "endFrame": 1081
+  },
+  {
+    "text": "does",
+    "beat": 9,
+    "startFrame": 1081,
+    "endFrame": 1091
+  },
+  {
+    "text": "it.",
+    "beat": 9,
+    "startFrame": 1091,
+    "endFrame": 1107
+  },
+  {
+    "text": "And",
+    "beat": 10,
+    "startFrame": 1107,
+    "endFrame": 1155
+  },
+  {
+    "text": "there's",
+    "beat": 10,
+    "startFrame": 1155,
+    "endFrame": 1176
+  },
+  {
+    "text": "a",
+    "beat": 10,
+    "startFrame": 1176,
+    "endFrame": 1179
+  },
+  {
+    "text": "baby",
+    "beat": 10,
+    "startFrame": 1179,
+    "endFrame": 1190
+  },
+  {
+    "text": "crying",
+    "beat": 10,
+    "startFrame": 1190,
+    "endFrame": 1208
+  },
+  {
+    "text": "in",
+    "beat": 10,
+    "startFrame": 1208,
+    "endFrame": 1214
+  },
+  {
+    "text": "14b.",
+    "beat": 10,
+    "startFrame": 1214,
+    "endFrame": 1245
+  },
+  {
+    "text": "That",
+    "beat": 10,
+    "startFrame": 1245,
+    "endFrame": 1246
+  },
+  {
+    "text": "entire",
+    "beat": 10,
+    "startFrame": 1246,
+    "endFrame": 1287
+  },
+  {
+    "text": "flight",
+    "beat": 10,
+    "startFrame": 1287,
+    "endFrame": 1301
+  },
+  {
+    "text": "is",
+    "beat": 10,
+    "startFrame": 1301,
+    "endFrame": 1306
+  },
+  {
+    "text": "hooked",
+    "beat": 10,
+    "startFrame": 1306,
+    "endFrame": 1326
+  },
+  {
+    "text": "to",
+    "beat": 10,
+    "startFrame": 1326,
+    "endFrame": 1334
+  },
+  {
+    "text": "that",
+    "beat": 10,
+    "startFrame": 1334,
+    "endFrame": 1346
+  },
+  {
+    "text": "baby.",
+    "beat": 10,
+    "startFrame": 1346,
+    "endFrame": 1371
+  },
+  {
+    "text": "She's",
+    "beat": 10,
+    "startFrame": 1371,
+    "endFrame": 1382
+  },
+  {
+    "text": "performing",
+    "beat": 10,
+    "startFrame": 1382,
+    "endFrame": 1403
+  },
+  {
+    "text": "in",
+    "beat": 10,
+    "startFrame": 1403,
+    "endFrame": 1412
+  },
+  {
+    "text": "front",
+    "beat": 10,
+    "startFrame": 1412,
+    "endFrame": 1421
+  },
+  {
+    "text": "of",
+    "beat": 10,
+    "startFrame": 1421,
+    "endFrame": 1422
+  },
+  {
+    "text": "180",
+    "beat": 10,
+    "startFrame": 1422,
+    "endFrame": 1441
+  },
+  {
+    "text": "people",
+    "beat": 10,
+    "startFrame": 1441,
+    "endFrame": 1454
+  },
+  {
+    "text": "and",
+    "beat": 10,
+    "startFrame": 1454,
+    "endFrame": 1460
+  },
+  {
+    "text": "she's",
+    "beat": 10,
+    "startFrame": 1460,
+    "endFrame": 1471
+  },
+  {
+    "text": "bombing.",
+    "beat": 10,
+    "startFrame": 1471,
+    "endFrame": 1494
+  },
+  {
+    "text": "\"I",
+    "beat": 11,
+    "startFrame": 1494,
+    "endFrame": 1501
+  },
+  {
+    "text": "come",
+    "beat": 11,
+    "startFrame": 1501,
+    "endFrame": 1514
+  },
+  {
+    "text": "here",
+    "beat": 11,
+    "startFrame": 1514,
+    "endFrame": 1532
+  },
+  {
+    "text": "every",
+    "beat": 11,
+    "startFrame": 1532,
+    "endFrame": 1556
+  },
+  {
+    "text": "week",
+    "beat": 11,
+    "startFrame": 1556,
+    "endFrame": 1559
+  },
+  {
+    "text": "and",
+    "beat": 11,
+    "startFrame": 1559,
+    "endFrame": 1569
+  },
+  {
+    "text": "bomb",
+    "beat": 11,
+    "startFrame": 1569,
+    "endFrame": 1583
+  },
+  {
+    "text": "too.",
+    "beat": 11,
+    "startFrame": 1583,
+    "endFrame": 1605
+  },
+  {
+    "text": "At",
+    "beat": 12,
+    "startFrame": 1605,
+    "endFrame": 1610
+  },
+  {
+    "text": "least",
+    "beat": 12,
+    "startFrame": 1610,
+    "endFrame": 1631
+  },
+  {
+    "text": "she",
+    "beat": 12,
+    "startFrame": 1631,
+    "endFrame": 1634
+  },
+  {
+    "text": "has",
+    "beat": 12,
+    "startFrame": 1634,
+    "endFrame": 1639
+  },
+  {
+    "text": "a",
+    "beat": 12,
+    "startFrame": 1639,
+    "endFrame": 1640
+  },
+  {
+    "text": "baby",
+    "beat": 12,
+    "startFrame": 1640,
+    "endFrame": 1651
+  },
+  {
+    "text": "crying",
+    "beat": 12,
+    "startFrame": 1651,
+    "endFrame": 1666
+  },
+  {
+    "text": "in",
+    "beat": 12,
+    "startFrame": 1666,
+    "endFrame": 1671
+  },
+  {
+    "text": "14b.",
+    "beat": 12,
+    "startFrame": 1671,
+    "endFrame": 1698
+  },
+  {
+    "text": "I'm",
+    "beat": 12,
+    "startFrame": 1718,
+    "endFrame": 1722
+  },
+  {
+    "text": "competing",
+    "beat": 12,
+    "startFrame": 1722,
+    "endFrame": 1741
+  },
+  {
+    "text": "with",
+    "beat": 12,
+    "startFrame": 1741,
+    "endFrame": 1753
+  },
+  {
+    "text": "every",
+    "beat": 12,
+    "startFrame": 1753,
+    "endFrame": 1759
+  },
+  {
+    "text": "baby",
+    "beat": 12,
+    "startFrame": 1759,
+    "endFrame": 1767
+  },
+  {
+    "text": "on",
+    "beat": 12,
+    "startFrame": 1767,
+    "endFrame": 1771
+  },
+  {
+    "text": "the",
+    "beat": 12,
+    "startFrame": 1771,
+    "endFrame": 1777
+  },
+  {
+    "text": "internet.",
+    "beat": 12,
+    "startFrame": 1777,
+    "endFrame": 1798
+  }
+]
